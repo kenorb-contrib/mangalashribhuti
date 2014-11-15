@@ -1,0 +1,215 @@
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the widescreen layout unless they are overridden by the widescreen styles. */
+
+/* styles for Jalu theme homepage */
+
+/* Color Palette */
+/*
+	background-beige: #dfdfc3
+	grey-beige: #a39784
+	dark green: #064240
+	orange: #d25036
+	sage green: #afbb98
+	dark grey: #6a6256	
+*/
+#region-branding {
+	height: 155px;
+}
+#block-block-43 {
+	width: 80%;
+}
+#block-block-43 .content a {
+	background: url(../images/prayer.png) no-repeat;
+	height: 42px;
+}
+#block-block-43 .content span {
+	line-height: 20px;
+}
+/* -------- content area height fix ------------- */
+.region-homepage-content {
+	height: 420px;
+}
+/* ----------- styles for Header links ---------------------- */
+
+#region-branding .headerLinks {
+	float: right;
+	margin-top: -65px;
+}
+#region-branding .mainlogo {
+	top: 5px;
+}
+#region-branding .mainlogo .logoimg {
+	padding-left: 35px
+}
+#region-branding .mainlogo .sitename {
+	padding-left: 50px
+}
+#zone-menu .block-search {
+	float: right;
+	margin-top: 4px;
+	position: relative;
+	margin-right: 10px
+}
+/* ----------- styles for Orange Menu Nav Bar ---------------------- */
+
+#region-menu {
+	background-color: #d25036; /* orange */
+}
+.sf-menu.sf-style-coral {
+	float: left;
+	margin-left: 10px;
+}
+.sf-menu.sf-style-coral li a {
+	padding: 0.75em 0.6em;
+}
+.sf-menu.sf-style-coral a.sf-with-ul {
+	padding-right: 2.25em;
+}
+.sf-menu.sf-style-coral li, .sf-menu.sf-style-coral li li, .sf-menu.sf-style-coral li li li, .sf-menu.sf-style-coral.sf-navbar {
+	background: #d25036;
+	color: #ffffff;
+	font-family: 'Century Gothic', sans-serif;
+	font-size: 12px;
+	letter-spacing: .5px;
+	text-transform: uppercase;
+	margin-left: 0px;
+}
+.sf-menu.sf-style-coral li ul {
+	background-color: #d25036;
+}
+.sf-menu.sf-style-coral li:hover, .sf-menu.sf-style-coral li.sfHover, .sf-menu.sf-style-coral li.active a, .sf-menu.sf-style-coral a:focus, .sf-menu.sf-style-coral a:hover, .sf-menu.sf-style-coral a:active, .sf-menu.sf-style-coral.sf-navbar li li {
+	background-color: #9e2a04; /* dark red background */
+	color: #ffffff;
+}
+.sf-menu.sf-style-coral li {
+	font-size: 14px;
+	letter-spacing: 2px;
+}
+/* -------- styles for Side Bar Nav ------------- */
+.sf-menu.sf-style-sageTeachers li {
+	text-indent: 30px;
+}
+.sf-menu.sf-style-sageTeachers li ul {
+	left: 200px;
+}
+.sf-menu.sf-style-sageTeachers li, .sf-menu.sf-style-sageTeachers li li, .sf-menu.sf-style-sageTeachers li li li, .sf-menu.sf-style-sageTeachers.sf-navbar {
+	font-size: 13px;
+}
+.sf-menu.sf-style-sageTeachings li {
+	text-indent: 30px;
+}
+.sf-menu.sf-style-sageTeachings li ul {
+	left: 200px;
+}
+.sf-menu.sf-style-sageTeachings li, .sf-menu.sf-style-sageTeachings li li, .sf-menu.sf-style-sageTeachings li li li, .sf-menu.sf-style-sageTeachings.sf-navbar {
+	font-size: 13px;
+}
+/* ----- styles for program pages ----- */
+
+.node-program-page .field-name-field-sub-title {
+	font-size: 11pt;
+	font-style: italic;
+	padding: 0px 0px 20px 30px;
+}
+.node-program-page .field-name-field-program-date {
+	font-size: 11pt;
+	font-weight: bold;
+}
+.node-program-page .field-name-field-event-location {
+	font-size: 11pt;
+	padding: 15px 0;
+}
+.node-program-page .field-name-field-individual-talk-price {
+	padding-bottom: 15px;
+}
+.node-program-page p {
+	line-height: 18pt;
+}
+.node-program-page .field-name-field-main-image {
+	float: right;
+	padding: 15px;
+}
+.node-program-page .field-name-field-media img {
+	float: left;
+	padding: 15px;
+}
+/* ----------- styles for footer ---------------------- */
+
+#zone-footer {
+	font: 10px 'Century Gothic', sans-serif;
+	letter-spacing: 1px;
+	line-height: 18px;
+}
+#zone-footer a:link {
+	color: #fff;
+	text-decoration: none;
+}
+#zone-footer a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+#zone-footer a:hover {
+	color: #064240;
+	text-decoration: none;
+}
+#zone-footer a:active {
+	color: #fff;
+	text-decoration: none;
+}
+.footer-outer-wrapper {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.region-footer-first-inner, .region-footer-second-inner, .region-footer-third-inner, .region-footer-fourth-inner, .region-footer-fifth-inner {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.region-footer-first-inner {
+	padding-left: 10px;
+}
+#region-content-bottom-third p {
+	text-align: center;
+}
+#block-views-msb-block-1 .views-row {
+	float: left;
+	width: 33.3333%
+}
+.view-slideshow {
+	margin-left: -80px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding-bottom: 30px;
+	float: center;
+	position: absolute;
+	z-index: 3;
+}
+.view-slideshow {
+	width: 660px !important
+}
+.view-slideshow .views-field-field-caption {
+	padding-left: 80px;
+}
+.twitter_container {
+	margin-left: 545px;
+	margin-top: 50px;
+	width: 150px;
+	position: absolute;
+}
+img.image_right {
+	float: right;
+	display: inline;
+}
+img.image_left {
+	float: left;
+	display: inline;
+}
+.media-youtube-player {
+	height: 380px !important;
+	max-width: 625px !important;
+}
+.not-front #mailchimp-lists-user-subscribe-form-msb-mailing-list {
+	height: 320px;
+	bottom: 0px;
+	background: url(../images/logosidebar.png) center bottom no-repeat;
+}

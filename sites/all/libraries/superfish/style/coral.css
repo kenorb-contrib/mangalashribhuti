@@ -1,0 +1,55 @@
+/* Orange change from  #DF3E20 to #d25036 */
+
+.sf-menu.sf-style-coral {
+  float: right;
+}
+
+.sf-menu.sf-style-coral li a {
+/*  border: 1px outset #000000; */
+  color: #f1f1f1;
+  padding: 0.75em 1em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.sf-menu.sf-style-coral a.sf-with-ul {
+  padding-right: 2.25em;
+}
+
+/*
+.sf-menu.sf-style-coral li ul {
+  margin-top: -2px;
+} removed by Hillary to fix upper alignment problem  */
+
+.sf-menu.sf-style-coral li, 
+.sf-menu.sf-style-coral li li,
+.sf-menu.sf-style-coral li li li,
+.sf-menu.sf-style-coral.sf-navbar {
+	background: #d25036;
+	color: #ffffff;  
+	font-family: 'Century Gothic', sans-serif;  /* Hillary change */
+	font-size: 12px;  
+	letter-spacing:1px;	 /* Hillary add */
+	text-transform: uppercase;
+	margin-left: 0px;
+}
+
+.sf-menu.sf-style-coral li ul {
+  background-color: #d25036;
+}
+
+.sf-menu.sf-style-coral li:hover,
+.sf-menu.sf-style-coral li.sfHover,
+.sf-menu.sf-style-coral li.active a,
+.sf-menu.sf-style-coral a:focus,
+.sf-menu.sf-style-coral a:hover,
+.sf-menu.sf-style-coral a:active,
+.sf-menu.sf-style-coral.sf-navbar li li {
+  background-color: #9e2a04; /* dark red background */
+  color: #ffffff;
+}
+
+/* Hillary add */
+.sf-menu.sf-style-coral li {
+	font-size: 14px;
+	letter-spacing:1px; 
+}

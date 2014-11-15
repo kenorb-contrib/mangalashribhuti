@@ -1,0 +1,539 @@
+/* CSS Document */
+
+/*   ------    GLOBAL    --------  */
+
+body {
+/*	background: #B5BA84;*/	
+	background: #E6E4CF;
+	padding: 0;
+	margin: 0;
+}
+
+/*   --------- general page layout --------  */
+
+/* A simple Browser Reset */
+
+*{
+  margin:0;
+  padding:0;
+}
+
+ /* General Layout
+________________________________*/
+
+#page{
+  float: left;
+  width:1000px;
+  position:relative;
+  margin:0 auto;
+}
+
+#content {
+  float:left;
+  width:100%;
+  margin-right:-100%;
+}
+.column {
+ /* padding:15px;*/
+	float:left;
+}
+
+#left{width:190px;}    /* 220 - (15x2) */
+
+/* You can easily change the layout proportions
+by just changing the matching values. For example,
+to have a 100px left sidebar, I just have to change
+all the 220 to 100 (and the -220 to -100).
+*/
+
+#content-inner {
+  float:none;
+  margin-left: 220px;   /* LEFT Sidebar width */
+}                       
+.left {
+  width: 220px;         /* LEFT Sidebar width */
+  margin-right:-220px;  /* LEFT Sidebar width */
+}             
+#header{
+  clear:both;
+  text-align:center;
+}          
+#footer{
+  padding:15px;
+  clear:both;
+  text-align:center;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  color:#fff;
+  font-size: 12px;
+}
+#footer a { text-decoration: none; color:#fff2d7;}
+#footer a:hover { text-decoration: underline; color:#FFFFFF;}
+
+/* Equal Height Columns 
+________________________________*/
+
+/* The columns are created using empty DIV that have to be 
+inside the main wrapper (#page) and should be positionned 
+relative. Each DIV have the same width as its corresponding 
+columns (done by using class), and by postionning them 
+absolutelly (bottom) and giving them a height of 100%, the 
+DIVs fill the entire space that the columns should fill.
+As the actual content is not positionned absolutelly, the 
+footer still behave normally and is pushed down by it. Last 
+but not least, we have to set the z-index of the real 
+content to 2 to bring it back on top of the columns.
+*/
+
+.bg{
+  position:absolute;
+  bottom:0;
+  height:100%;
+}
+#bgleft{left:0;}
+#bgright{right:0;}
+#bgcenter{
+  right:0;
+  width:100%;
+}
+#content, #left, #right, #header, #footer{
+  position:relative;
+  z-index:2;
+}
+
+/* COLORS */
+#header{background-color:#B5BA84;}
+#footer{background-color:#D46343;}
+#bgleft{background-color:#B5BA84;}
+/*#bgcenter{background-color:#fff2d7;}*/
+#bgcenter{background-color:#E6E4CF;}
+
+/*   --------- end page layout --------  */
+
+/*   --------- side navbar --------  */
+
+/* main sid nav start */
+
+#leftnav
+{
+	margin-top: 0px;
+	width:220px;
+	text-align: left;
+	background-color: #B5BA84; 
+	float: left;
+	padding: 0;
+	/*border: 1px solid blue;*/			
+}
+#leftnav div
+{
+	border: 1px solid #B5BA84;
+	border-width: 0;
+	padding: 0;
+	background: #B5BA84; /* color of resting nav */
+}
+
+#leftnav ul
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	border-top: 1px solid #B5BA84;
+	
+}
+
+#leftnav li
+{
+	color: #005A48; /* overridden */
+	padding: 0;
+	margin: 0;
+	border-bottom: 1px solid #B5BA84;
+	border-top: 1px solid #B5BA84;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 14px;
+}
+
+#leftnav li:hover
+{
+	background-color: #D1D3A4;
+}
+
+#leftnav li a
+{
+	color: #587969;
+	padding: 3px 7px 3px 15px;
+	display: block;
+	text-decoration: none;
+}
+
+/* IE fix */
+html>body #leftnav li a {
+	width: auto;
+}
+
+#leftnav li a:hover
+{
+	background-color: #D1D3A4;
+}
+
+#leftnav li.on {
+	background-color: #D1D3A4;
+	border-top: 1px solid #D1D3A4;
+	border-bottom: 1px solid #D1D3A4;
+}
+
+/* main side nav end */
+
+/*secondary nav start*/
+
+#leftnav ul.secondbg  {
+	background-color: #D0D3A4;
+	border-top: 1px solid #D1D3A4;
+	border-bottom: 1px solid #D1D3A4;
+}
+
+#leftnav li.navheader  {
+	color: #587969;
+	margin: 0px 0px 0px 20px;
+	border-top: 1px solid #D1D3A4;
+	border-bottom: 1px solid #D1D3A4;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+#leftnav li.second  {
+	margin: 0px 0px 0px 0px;
+	border-top: 1px solid #D1D3A4;
+	border-bottom: 1px solid #D1D3A4;
+	font-size: 10px;
+	font-weight: 100;
+}
+
+#leftnav li.second a {
+	color: #587969;
+	margin: 0px 0px 0px 20px;
+}
+
+#leftnav li.second a:hover {
+	background-color: #e3e5cf;
+}
+
+#leftnav li.secondon {
+	color: #587969;
+	margin: 0px 0px 0px 40px;
+	padding: 3px 7px 3px 15px;
+	background-color: #e3e5cf;
+	border-top: 1px solid #D1D3A4;
+	border-bottom: 1px solid #D1D3A4;
+	font-size: 10px;
+	font-weight: 100;
+}
+
+/*secondary nav end*/	
+
+/*tertiary nav start*/
+
+#leftnav ul.thirdbg  {
+	background-color: #D0D3A4;
+	border-top: 1px solid #D1D3A4;
+	border-bottom: 1px solid #D1D3A4;
+	margin: 0px 0px 0px 40px;
+}
+
+
+#leftnav li.third  {
+	margin: 0px 0px 0px -20px;
+	border-top: 1px solid #D1D3A4;
+	border-bottom: 1px solid #D1D3A4;
+	font-size: 10px;
+	font-weight: 100;
+}
+
+#leftnav li.third a {
+		margin: 0px 0px 0px 20px;
+		color:#ae6957;
+}
+
+#leftnav li.third a:hover {
+	background-color: #e3e5cf;
+}
+
+#leftnav li.thirdon {
+	color:#ae6957;
+	margin: 0px 0px 0px 55px;
+	padding: 3px 7px 3px 15px;
+	background-color: #e3e5cf;
+	border-top: 1px solid #D1D3A4;
+	border-bottom: 1px solid #D1D3A4;
+	font-size: 10px;
+	font-weight: 100;
+}
+
+/*tertiatry nav end*/
+
+/*   --------- side navbar end --------  */
+
+/*   --------- image & text --------  */
+
+.imgWrapLeft {
+	float: left;
+	padding: 12px 20px 5px 0px;
+	border: 0px;	
+}
+.imgWrapRight {
+	float: right;
+	padding: 12px 20px 12px 20px;
+	border: 0px;
+}
+
+.imgWrapCenter {
+	float: center;
+	padding: 12px 20px 12px 20px;
+	border: 0px;
+}
+
+.contentRight {
+	float: right;
+	width: 180px;
+	padding: 12px 20px 12px 20px;
+	border: 0px;
+}
+.contentRightCentered {
+	float: center;
+	width: 150px;
+	padding: 12px 20px 12px 20px;
+	border: 0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #587969;
+}
+
+.quotecredit {
+	font-style:italic;
+}
+
+.blockquote {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #587969;
+	padding-left:30px;
+	padding-right:30px;
+}
+
+.hover {
+	background-color: #e3e5cf;
+	display: block;
+	width: 200px;
+	height: 20px;
+}
+
+.imgWrap { padding: 12px 20px 12px 20px; border: 0px;}
+
+h1, h2, h3, h4, p, ul, li {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+	font-size: 18px;
+	line-height: 20px;
+	color: #587969;
+	padding: 0 35px 0 25px;
+	margin: 20px 0 0 0;
+}
+
+h1 br {
+	font-size: 18px;
+	line-height: 20px;
+	color: #587969;
+}
+
+h2 {
+	font-size: 11px;
+	line-height: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #000;
+	padding: 0 35px 0 25px;
+	margin: 20px 0 0 0;
+}
+
+p {
+	font-size: 13px;
+	line-height: 18px;
+	color: #000;
+	padding: 0 20px 0 27px;
+	margin: 12px 0;
+}
+p a { text-decoration: none; color:#587969; }
+p a:hover { text-decoration: underline; }
+
+ul {
+	font-size: 13px;
+	line-height: 18px;
+	color: #000;
+}
+
+.bold {
+	font-size: 11px;
+	line-height: 15px;
+	font-weight: bold;
+	color: #000;
+}
+
+.boldgreen {
+	font-size: 11px;
+	line-height: 15px;
+	font-weight: bold;
+	color:#587969;
+}
+.bigboldgreen {
+	font-size: 14px;
+	line-height: 15px;
+	font-weight: bold;
+	color:#587969;
+}
+
+.green {
+	font-size: 11px;
+	line-height: 15px;
+	letter-spacing: 1px;
+	color:#587969;
+}
+
+.red {
+	font-size: 11px;
+	line-height: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #d50;
+}
+
+.black {
+	font-size: 11px;
+	line-height: 15px;
+	letter-spacing: 1px;
+	color: #000000;
+}
+
+/* these cells provide main content layout for cell items
+that need to be displayed in rows */
+
+#cell {
+	min-height: 100%;
+	width: 800px;
+	text-align: left;
+	position: relative;
+/*	border: 1px solid red;*/
+	border: 1px solid #E6E4CF;
+}
+#cellInner {
+	float: left;
+	width: 795px;
+	text-align: left;
+	position: relative;
+/*	border: 1px solid black;*/
+	border: 1px solid #E6E4CF;
+}
+
+/*   --------- end image & text --------  */
+
+/*   ------    homepage    --------  */
+
+.HPwrapper {
+	position: absolute;
+	top: 96px;
+	left: 0px;
+	width: 959px;
+	height: 567px;
+	/*border: 1px solid red;*/
+	background: url(../images/home/hp_background.jpg) no-repeat;
+}
+
+.HPnav {
+	position:absolute;
+	top: 10px;
+	left: 0px;
+}
+	
+#topImages {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#QTvideo {
+	position: absolute;
+	top: 191px;
+	left: 300px;
+}
+
+#VDKRquote {
+	position:absolute;
+	top: 20px;
+	left: 529px;
+	width: 250px;
+	color: #FFFFFF;
+	font-size:15px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;	
+}
+
+#newsFeed {
+	position: absolute;
+	top: 425px;
+	left: 0px;
+	width: 510px;
+}
+
+#newsFeed a {
+	color:#FFFFFF;
+	}
+	
+#newsFeed a hover{
+	color:#FFFFFF;
+	text-decoration:underline;
+	}
+/*   ------    books    --------  */
+
+.booktitle {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 20px;
+	color: #587969;
+}
+.byline {
+	font-size: 14px;
+	line-height: 20px;
+	color: #587969;
+}
+.booktitle br {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 20px;
+	color: #587969;
+	text-decoration: none;
+}
+.booktitle a {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 20px;
+	color: #587969;
+	text-decoration: none;
+}
+.booktitle a:hover {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 20px;
+	color: #587969;
+	text-decoration: underline;
+}
+hr {
+	float: right;
+	width: 760px;
+    border: none;
+    background-color: #ccc;
+    color: #587969;
+    height: 2px;
+}

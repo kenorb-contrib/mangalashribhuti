@@ -1,0 +1,43 @@
+.sf-menu.sf-style-sageTeachings {
+  float: left;
+  margin-bottom: 15px;
+}
+.sf-menu.sf-style-sageTeachings a {
+/*  border: 1px outset #000000; */
+  color: #064240; /*  dark green text */
+  text-decoration: none;
+  white-space: nowrap;
+}
+.sf-menu.sf-style-sageTeachings li,
+.sf-menu.sf-style-sageTeachings li li,
+.sf-menu.sf-style-sageTeachings li li li,
+.sf-menu.sf-style-sageTeachings.sf-navbar {
+  color: #064240; /* dark green text */
+  font-family: verdana, arial, sans-serif;
+  font-size: 12px;  
+  white-space: nowrap;
+}
+.sf-menu.sf-style-sageTeachings li {
+  text-indent: 10px;
+  padding: 0.5em 1em;
+}
+.sf-menu.sf-style-sageTeachings li li,
+.sf-menu.sf-style-sageTeachings li ul, 
+.sf-menu.sf-style-sageTeachings li li li {
+  background: #afbb98; /* leftnav green bg */
+  text-indent: 0px;
+  padding: 0.5em .1em;
+}
+.sf-menu.sf-style-sageTeachings li ul {
+	left: 185px;
+	padding: 0;
+}
+.sf-menu.sf-style-sageTeachings li:hover,
+.sf-menu.sf-style-sageTeachings li.sfHover,
+.sf-menu.sf-style-sageTeachings li.active a,
+.sf-menu.sf-style-sageTeachings a:focus,
+.sf-menu.sf-style-sageTeachings a:hover,
+.sf-menu.sf-style-sageTeachings a:active,
+.sf-menu.sf-style-sageTeachings.sf-navbar li li {
+  color: #ffffff;
+}

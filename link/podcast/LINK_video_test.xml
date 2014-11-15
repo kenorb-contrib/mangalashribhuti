@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+       xmlns:atom="http://www.w3.org/2005/Atom" 
+       xml:lang='en-US' 
+       version="2.0">
+ 
+  <channel>
+    <title>Mangala Shri Bhuti - The Link</title>
+    <link>http://link.mangalashribhuti.org/</link>
+    <language>en-us</language>
+    <copyright>&#x2117; &amp; &#xA9; 2009 Mangala Shri Bhuti</copyright>
+    <atom:link href="http://link.mangalashribhuti.org/podcast/LINK_video_test.xml" rel="self" type="application/rss+xml" />
+    <itunes:subtitle>Weekly Teachings on the Buddadharma Via Web Conference</itunes:subtitle>
+    <itunes:author>Dzigar Kongtrul Rinpoche and students</itunes:author>
+    <itunes:summary>Pith instructions and practical inquiries into Buddhist view and meditation</itunes:summary>
+    <description>Mangala Shri Bhuti is pleased to announce weekly teachings by web conference by Dzigar Kongtrul Rinpoche, Jampal Norbu Namgyel, Elizabeth Mattis Namgyel, and senior students of Mangala Shri Bhuti.</description>
+    <itunes:owner>
+      <itunes:name>Wisdom Productions of Mangala Shri Bhuti</itunes:name>
+      <itunes:email>link@mangalashribhuti.org</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+	
+    <itunes:image href="http://www.mangalashribhuti.org/link/podcast/linklogo_itunes.jpg" />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Buddhism"/>
+    </itunes:category>
+
+   <item>
+      <title>Video (for High-Speed Connections Only! 680 MB): Losar Address - Year of the Water Dragon (Link #109)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Phuntsok Choling, 26 Feb, 2012</itunes:subtitle>
+      <itunes:summary>TODO: Summary here!</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_02_26_LINK109_DKR.m4v" length="684653153" type="video/m4v" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_02_26_LINK109_DKR.m4v</guid>
+      <pubDate>Sun, 26 Feb 2012 10:00:00 MST</pubDate>
+      <itunes:duration>57:17</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>	  
+      <title>Audio: Losar Address - Year of the Water Dragon (Link #109)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Phuntsok Choling, 26 Feb, 2012</itunes:subtitle>
+      <itunes:summary>TODO: Summary here!</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_02_26_LINK109_DKR.mp3" length="27426689" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_02_26_LINK109_DKR.mp3</guid> 
+      <pubDate>Sun, 27 Feb 2012 10:00:01 MST</pubDate>
+      <itunes:duration>57:17</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche</itunes:keywords>
+    </item>
+  </channel>
+</rss>

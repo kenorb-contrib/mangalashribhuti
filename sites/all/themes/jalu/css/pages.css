@@ -1,0 +1,48 @@
+/* styles for individual content type pages */
+/* started by Hillary 5-16-12 */
+/* color scheme:
+	sage green: #587969
+*/
+
+
+/* ----- styles for program pages ----- */
+
+.node-program-page .field-name-field-sub-title {
+	font-size: 12pt;
+	font-style: italic;
+	font-weight: bold;
+	padding: 20px 0px;
+}
+
+.node-program-page .field-name-field-program-date {
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.node-program-page .field-name-field-event-location {
+	font-size: 12pt;
+	padding: 15px 0;
+}
+
+.node-program-page .field-name-field-individual-talk-price {
+	padding-bottom: 15px;
+}
+
+.node-program-page p {
+	line-height: 18pt;
+}
+
+.node-program-page .field-name-field-main-image {
+	float: right;
+	padding: 15px;
+}
+
+.node-program-page .field-name-field-media img {
+	float: left;
+	padding: 15px;
+}        
+
+
+/* ----- styles for dharma blog pages ----- */    
+
+.view-dharma-blog 

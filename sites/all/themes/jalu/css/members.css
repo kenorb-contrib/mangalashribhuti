@@ -1,0 +1,31 @@
+/* MEMBERS SITE PAGES ------------------------- */
+#region-member-sidebar-left {
+	background-color: #afbb98; /* leftnav green */
+}
+#region-content {
+	background-color: #fff; /* white */
+	margin-left: -10;
+}
+#region-member-sidebar-right {
+	background-color: #ebead9; /* off-white */	
+}
+#region-member-sidebar-left .region-member-sidebar-left-inner,
+#region-content .region-content-inner,
+#region-member-sidebar-right .region-member-sidebar-right-inner {
+	height: 100%;
+	padding: 10 px;
+}
+.node-type-members-basic-page #page-title {
+	display: none;
+}
+.node-type-members-basic-page .welcome {
+	font: bold 16px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	color: #587969;/*green */
+	margin-bottom: 10px;
+}
+/*
+.view-members-homepage .views-field-body .membersBody{
+	line-height: 12px;
+	font: 11px/14px 'Helvetica', Arial, sans-serif;
+}
+*/

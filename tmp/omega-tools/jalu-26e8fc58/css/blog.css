@@ -1,0 +1,64 @@
+/* ----------- styles for Right_sidebar_second Zone on BLOG pages ---------------------- */	
+.blog-pages #region-right-sidebar h2 {
+	font: 12px verdana, arial, sans-serif;
+	color: #fff;
+}
+.blog-pages #region-right-sidebar h2.block-title {	
+	font: 16px verdana, arial, sans-serif;
+	color: #587969;
+	text-indent: 10px;
+	padding-bottom: 20px;	
+	text-transform: uppercase;
+}
+.blog-pages #region-right-sidebar .region-sidebar-second-inner {
+	border-left: 1px solid #587969; /* sage-green */
+	margin-left: -1px;
+	margin-top: 20px;	
+}
+.blog-pages #region-right-sidebar .eachTopic,
+.blog-pages #region-right-sidebar .eachDBrecentPost {
+	text-indent: 10px;
+	white-space: nowrap;	
+}
+.blog-pages #region-right-sidebar .eachTopic {
+	padding-bottom: 15px;
+}
+.blog-pages #region-right-sidebar .eachDBrecentPost {
+	padding-bottom: 5px;
+}
+.blog-pages #region-right-sidebar .block-views {
+	padding-bottom: 20px;
+}
+.blog-pages #region-right-sidebar a,
+#region-content .node-blog-post .content a,
+#region-content .node-blog-post h2.node-title a,
+#region-content ul li.node-readmore a { text-decoration: none; color: #587969; /*  sage green text */ }
+.blog-pages #region-right-sidebar a:hover,
+#region-content .node-blog-post .content a:hover,
+#region-content .node-blog-post h2.node-title a:hover,
+#region-content ul li.node-readmore a:hover { text-decoration: none; color:#DF3E20; /*  bright orange text */}
+
+/* ----- styles for blog pages ----- */
+.blogTeaserFooter { height: 3px; background: #587969; }
+.views-row-last .blogTeaserFooter { display: none; }
+
+#region-content .node-blog-post .content {
+	margin-top: -20px;
+
+}
+/*
+#region-content .node-blog-post {
+	border-top: 1px solid #587969; /* sage-green 
+}
+*/
+#region-content .node-blog-post h2.node-title {
+	margin-top: 10px;
+	font: 14px verdana, arial, sans-serif;
+}
+
+#region-content .node-blog-post .field-name-field-post-date {
+	padding-bottom: 10px;
+}
+#region-content .node-blog-post .field-name-field-author {
+	padding-bottom: 20px;
+}

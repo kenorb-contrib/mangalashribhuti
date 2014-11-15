@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+       xmlns:atom="http://www.w3.org/2005/Atom" 
+       xml:lang='en-US' 
+       version="2.0">
+ 
+  <channel>
+    <title>Mangala Shri Bhuti - The Link</title>
+    <link>http://link.mangalashribhuti.org/</link>
+    <language>en-us</language>
+    <copyright>&#x2117; &amp; &#xA9; 2009 Mangala Shri Bhuti</copyright>
+    <atom:link href="http://link.mangalashribhuti.org/podcast/LINK_feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:subtitle>Weekly Teachings on the Buddadharma Via Web Conference</itunes:subtitle>
+    <itunes:author>Dzigar Kongtrul Rinpoche and students</itunes:author>
+    <itunes:summary>Pith instructions and practical inquiries into Buddhist view and meditation</itunes:summary>
+    <description>Mangala Shri Bhuti is pleased to announce weekly teachings by web conference by Dzigar Kongtrul Rinpoche, Jampal Norbu Namgyel, Elizabeth Mattis Namgyel, and senior students of Mangala Shri Bhuti.</description>
+    <itunes:owner>
+      <itunes:name>Wisdom Productions of Mangala Shri Bhuti</itunes:name>
+      <itunes:email>link@mangalashribhuti.org</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+	
+    <itunes:image href="http://www.mangalashribhuti.org/link/podcast/linklogo_itunes.jpg" />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Buddhism"/>
+    </itunes:category>
+
+   <item>
+      <title>The Link #1: Three Goals of a Practitioner: String-Free Kindness, Freedom from Self-Concern and Stability in the Nature</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Dzogchen Beara, Ireland, 2 August, 2009</itunes:subtitle>
+      <itunes:summary>Rinpoche's three aspirations to make progress on the path</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_001_2009_08_02.mp3" length="8230909" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_001_2009_08_02.mp3</guid>
+      <pubDate>Sun, 02 Aug 2009 10:00:00 MST</pubDate>
+      <itunes:duration>45:40</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>The Link #2: From the Cushion to the Grocery Store: Developing Positive Habits</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from Osel Ling, Crestone, Colorado, 9 August, 2009</itunes:subtitle>
+      <itunes:summary>Jampal's first talk to the Sangha</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_002_2009_08_09.mp3" length="10040976" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_002_2009_08_09.mp3</guid>
+      <pubDate>Sun, 09 Aug 2009 10:00:00 MST</pubDate>
+      <itunes:duration>55:47</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>The Link #3: Digesting Experience</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Osel Ling, Crestone, Colorado, 16 August, 2009</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_003_2009_08_16.mp3" length="7341302" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_003_2009_08_16.mp3</guid>
+      <pubDate>Sun, 16 Aug 2009 10:00:00 MST</pubDate>
+      <itunes:duration>40:44</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>The Link #4: We Are Big Enough to Hold it All: At Ease with Fundamental Uncertainty</title>
+      <itunes:author>Ani Pema Chodron</itunes:author>
+      <itunes:subtitle>Ani Pema Chodron from Samten Ling, Crestone, Colorado, 23 August, 2009</itunes:subtitle>
+      <itunes:summary>We Are Big Enough to Hold it All: At Ease with Fundamental Uncertainty</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_004_2009_08_23.mp3" length="9585972" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_004_2009_08_23.mp3</guid>
+      <pubDate>Sun, 23 Aug 2009 10:00:00 MST</pubDate>
+      <itunes:duration>53:15</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>The Link #5: Bringing Meaning to One's Life Through the Path of Service</title>
+      <itunes:author>R. Scott Gallagher, MSB President</itunes:author>
+      <itunes:subtitle>R. Scott Gallagher from Phuntsok Choling, Ward, Colorado, 30 August, 2009</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_005_2009_08_30.mp3" length="10233294" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_005_2009_08_30.mp3</guid>
+      <pubDate>Sun, 30 Aug 2009 10:00:00 MST</pubDate>
+      <itunes:duration>56:51</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+<item>
+      <title>The Link #6: Deepening One's Connection, Commitment, and Dedication to Sail Across the Ocean of Samsara</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Phuntsok Choling, Ward, Colorado, 30 August, 2009</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_006_2009_09_06.mp3" length="9151615" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_006_2009_09_06.mp3</guid>
+      <pubDate>Sun, 06 Sep 2009 10:00:00 MST</pubDate>
+      <itunes:duration>50:50</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+<item>
+      <title>The Link #7: Making the Teachings Personal</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from Phuntsok Choling, Ward, Colorado, 13 September, 2009</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_007_2009_09_13.mp3" length="35680843" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_007_2009_09_13.mp3</guid>
+      <pubDate>Sun, 13 Sep 2009 10:00:00 MST</pubDate>
+      <itunes:duration>37:10</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+<item>
+      <title>The Link #8: Discernment: Trusting a Process of Knowing</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel rom Phuntsok Choling, Ward, Colorado, 20 September, 2009</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_8.mp3" length="54976750" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_8.mp3</guid>
+      <pubDate>Sun, 20 Sep 2009 10:00:00 MST</pubDate>
+      <itunes:duration>57:16</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+<item>
+      <title>The Link #9: The MSB Study and Practice Manual: An Introduction to Shamatha</title>
+      <itunes:author>Bob Reid</itunes:author>
+      <itunes:subtitle>Bob Reid from Phuntsok Choling, Ward, Colorado, 27 September, 2009</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_9.mp3" length="60025232" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_9.mp3</guid>
+      <pubDate>Sun, 27 Sep 2009 10:00:00 MST</pubDate>
+      <itunes:duration>41:41</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+<item>
+      <title>The Link #10: Confidence: Its Imposters and Its Partnership with Critical Intelligence</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from Phuntsok Choling, Ward, Colorado, 4 October, 2009</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_10.mp3" length="84195637" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_10.mp3</guid>
+      <pubDate>Sun, 4 Oct 2009 10:00:00 MST</pubDate>
+      <itunes:duration>58:28</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>    
+
+<item>
+      <title>The Link #11: When Am I Practicing?: Form, Struggle or Something More Essential</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Osel Ling, Crestone, Colorado, 11 October, 2009</itunes:subtitle>
+      <itunes:summary>Elizabeth Mattis Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_11.mp3" length="27368810" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_11.mp3</guid>
+      <pubDate>Sun, 18 Oct 2009 10:00:00 MST</pubDate>
+      <itunes:duration>57:01</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>    
+
+    
+<item>
+      <title>The Link #12: Personal Integrity: Preserving the Character of a Practitioner</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from California, USA, 1 November, 2009</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_12.mp3" length="2618270" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_12.mp3</guid>
+      <pubDate>Sun, 01 Nov 2009 10:00:00 MST</pubDate>
+      <itunes:duration>54:32</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>    
+
+<item>
+      <title>The Link #13: What to do when in a rut: positive attitude and flexible mind</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from Guna Institute, Bir, India, 8 November, 2009</itunes:subtitle>
+      <itunes:summary>Jampal Norbu Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_13.mp3" length="24168998" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_13.mp3</guid>
+      <pubDate>Sun, 08 Nov 2009 10:00:00 MST</pubDate>
+      <itunes:duration>50:21</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    
+ <item>
+      <title>The Link #14: The Body and Practice: Going Beyond Grasping and Rejecting</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Osel Ling, Crestone, Colorado, 15 November, 2009</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_14.mp3" length="28520914" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_14.mp3</guid>
+      <pubDate>Sun, 15 Nov 2009 10:00:00 MST</pubDate>
+      <itunes:duration>59:25</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    
+<item>
+      <title>The Link #15: Comradeship in the Vision: Allowing Space for Mind's Natural Ability</title>
+      <itunes:author>Jennifer Shippee</itunes:author>
+      <itunes:subtitle>Jennifer Shippee from Guna Institute, Bir, India, 22, November, 2009</itunes:subtitle>
+      <itunes:summary>Jennifer Shippee</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_15.mp3" length="19865009" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_15.mp3</guid>
+      <pubDate>Sun, 22 Nov 2009 10:00:00 MST</pubDate>
+
+      <itunes:duration>41:23</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    
+<item>
+      <title>The Link #16:The Sangha Guidelines: Measuring the Impact of Our Ego Footprint</title>
+      <itunes:author>Chris Riggert</itunes:author>
+      <itunes:subtitle>Chris Riggert from Pema Osel, Vershire, VT, 29, November, 2009</itunes:subtitle>
+      <itunes:summary>Chris Riggert</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_16.mp3" length="12736983" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_16.mp3</guid>
+      <pubDate>Sun, 29 Nov 2009 10:00:00 MST</pubDate>
+      <itunes:duration>26:32</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    
+<item>
+      <title>The Link #17: Liberty to Let Go: The Personal Sanctuary of Peace in Samsara</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from  Guna Institute, Bir, India, 05, November, 2009 2009</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_17.mp3" length="30157012" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_17.mp3</guid>
+      <pubDate>Sun, 06 Dec 2009 10:00:00 MST</pubDate>
+      <itunes:duration>1:02:49</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>    
+
+    <item>
+      <title>The Link #18: Contentment: The Supreme Treasure of Not Wanting to be Anywhere Other Than Where You Are</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from Guna Institute, Bir, India, 13 December, 2009</itunes:subtitle>
+      <itunes:summary>Jampal Norbu Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_18.mp3" length="62668928" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_18.mp3</guid>
+      <pubDate>Sun, 13 Dec 2009 10:00:00 MST</pubDate>
+      <itunes:duration>43:31</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>    
+
+    <item>
+      <title>The Link #19: Living in the Center of the Human Predicament: Trying with all our Might</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Osel Ling, Crestone, Colorado, 20 December, 2009</itunes:subtitle>
+      <itunes:summary>Elizabeth Mattis Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_12_20_19.mp3" length="31776390" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_12_20_19.mp3</guid>
+      <pubDate>Sun, 20 Dec 2009 10:00:00 MST</pubDate>
+      <itunes:duration>1:06:12</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>    
+
+    <item>
+      <title>The Link #20: Aspiration: Be The Pecha</title>
+      <itunes:author>Gretchen Kahre Holland</itunes:author>
+      <itunes:subtitle>Gretchen Kahre Holland from Phuntsok Choling, Ward, Colorado, 27 December, 2009</itunes:subtitle>
+      <itunes:summary>Gretchen Kahre Holland</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_12_27_20.mp3" length="21748505" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/TheLink_2009_12_27_20.mp3</guid>
+      <pubDate>Sun, 27 Dec 2009 10:00:00 MST</pubDate>
+      <itunes:duration>45:18</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>    
+	  
+	  
+<item>
+		<title>The Link #21: Five Magic Potions that Counteract Obstacles: Intention, Appreciation, Humility, Contentment, Goodwill Towards All</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from  Guna Institute, Bir, India, 03 January, 2010</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_21.mp3" length="87240646" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_21.mp3</guid>
+      <pubDate>Sun, 03 Jan 2010 10:00:00 MST</pubDate>
+      <itunes:duration>1:00:34</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item> 
+     
+<item>
+      <title>The Link #22: Fear, Being Fearful, and Fearlessness: Cutting the Roots of Attachment and Aversion</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from a Train on the Way to Bodghaya, India, 10 January, 2010</itunes:subtitle>
+      <itunes:summary>Jampal Norbu Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_22.mp3" length="57145163" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_22.mp3</guid>
+      <pubDate>Sun, 10 Jan 2010 10:00:00 MST</pubDate>
+      <itunes:duration>39:41</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+<item> 
+     <title>The Link #23: Know Your Own Mind</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Crestone, 17 January, 2010</itunes:subtitle>
+      <itunes:summary>Elizabeth Mattis Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/23.mp3" length="4175896" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/23.mp3</guid>
+      <pubDate>Sun, 17 Jan 2010 10:00:00 MST</pubDate>
+      <itunes:duration>58:09</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item> 
+
+	
+	<item> 
+     <title>The Link #24: Nicholas Carter</title>
+     <itunes:author>Nicholas Carter</itunes:author>
+     <itunes:subtitle>Nicholas Carter from Osel Ling, Crestone, 24 January, 2010</itunes:subtitle>
+     <itunes:summary>Nicholas Carter</itunes:summary>
+     <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/24.mp3" length="145632652" type="audio/mpeg" />
+     <guid>http://mangalashribhuti.geekpak.com/link/archive/24.mp3</guid>
+     <pubDate>Sun, 24 Jan 2010 10:00:00 MST</pubDate>
+     <itunes:duration>37:07</itunes:duration>
+     <itunes:keywords></itunes:keywords>
+    </item> 
+
+<item> 
+     <title>The Link #25: The Perfect Teacher</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Florida, 21 February, 2010</itunes:subtitle>
+      <itunes:summary>Elizabeth Mattis Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/25.mp3" length="37832201" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/25.mp3</guid>
+      <pubDate>Sun, 21 Feb 2010 10:00:00 MST</pubDate>
+      <itunes:duration>1:18:48</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+ <item>
+	<title>The Link #26: Kelly Smith</title>
+      <itunes:author>Kelly Smith</itunes:author>
+      <itunes:subtitle>Kelly Smith from  Phuntsok Choling, Ward, CO, 28 February, 2010</itunes:subtitle>
+      <itunes:summary>Kelly Smith</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/26.mp3" length="72144604" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/26.mp3</guid>
+      <pubDate>Sun, 28 Feb 2010 10:00:00 MST</pubDate>
+      <itunes:duration>50:05</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item> 
+	
+<item>
+	<title>The Link #27: Knowing the Ins and Outs of the Ego: Renouncing Reactivity</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from  Guna Institute, Bir, India, 07 March, 2010</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/27.mp3" length="90720776" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/27.mp3</guid>
+      <pubDate>Sun, 07 Mar 2010 10:00:00 MST</pubDate>
+      <itunes:duration>1:02:59</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item> 
+	
+<item>
+	<title>The Link #28: Jampal Norbu Namgyel </title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from  Guna Institute, Bir, India, 14 March, 2010</itunes:subtitle>
+      <itunes:summary>Jampal Norbu Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/28.mp3" length="74160839" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/28.mp3</guid>
+      <pubDate>Sun, 14 Mar 2010 10:00:00 MST</pubDate>
+      <itunes:duration>51:29</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item> 	
+
+
+<item> 
+     <title>The Link #29: Wonderment: The Ability to Not Know</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Crestione, 21 Mar, 2010</itunes:subtitle>
+      <itunes:summary>Elizabeth Mattis Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/29.mp3" length="84024466" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/29.mp3</guid>
+      <pubDate>Sun, 21 Mar 2010 10:00:00 MST</pubDate>
+      <itunes:duration>58:20</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item>
+      <title>The Link #30: Wealth: A Deeper Ownership in the Sangha</title>
+      <itunes:author>Jennifer Shippee</itunes:author>
+      <itunes:subtitle>Jennifer Shippee from Guna Institute, Bir, India, 28 Mar, 2010</itunes:subtitle>
+      <itunes:summary>Jennifer Shippee</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/30.mp3" length="60915584" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/30.mp3</guid>
+      <pubDate>Sun, 28 Mar 2010 10:00:00 MST</pubDate>
+      <itunes:duration>42:18</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item>
+      <title>The Link #31:Critical Intelligence Hand and Hand with Positive Attitude</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Guna Institute, Bir, India, 04 Apr, 2010</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/31.mp3" length="103031245" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/31.mp3</guid>
+      <pubDate>Sun, 04 Apr 2010 10:00:00 MST</pubDate>
+      <itunes:duration>01:11:32</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item>
+      <title>The Link #32: Bodhicitta: Make it Personal</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from Guna Institute, Bir, India, 11 Apr, 2010</itunes:subtitle>
+      <itunes:summary>Jampal Norbu Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/32.mp3" length="41168757 " type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/32.mp3</guid>
+      <pubDate>Sun, 11 Apr 2010 10:00:00 MST</pubDate>
+      <itunes:duration>00:28:35</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+    <item>
+      <title>The Link #33: CSI: Investigating Our Mind</title>
+      <itunes:author>R. Scott Gallagher, MSB President</itunes:author>
+      <itunes:subtitle>R. Scott Gallagher from Phuntsok Choling, Ward, Colorado, 18 April, 2010</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/33.mp3" length="58752564" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/33.mp3</guid>
+      <pubDate>Sun, 18 Apr 2010 10:00:00 MST</pubDate>
+      <itunes:duration>40:47</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	 <item>
+	 <title>The Link #34: Distraction: A Reminder of our Purpose</title>
+      <itunes:author>Sasha Dorje Meyerowitz</itunes:author>
+      <itunes:subtitle>Sasha Dorje Meyerowitz from Osel Ling, Crestone, Colorado, 25 April, 2010</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/34.mp3" length="8292042" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/34.mp3</guid>
+      <pubDate>Sun, 25 Apr 2010 10:00:00 MST</pubDate>
+      <itunes:duration>57:34</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+	<item>
+      <title>The Link #35:Becoming a more cultured person: refining our relationships with others</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Kyoto, Japan, 02 May, 2010</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/35.mp3" length="61944309" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/35.mp3</guid>
+      <pubDate>Sun, 02 May 2010 10:00:00 MST</pubDate>
+      <itunes:duration>00:43:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+		
+	<item>
+      <title>The Link #36: Being Deliberate: Creating Conditions for Practice</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from Phuntsok Choling, Ward, CO, 09 May, 2010</itunes:subtitle>
+      <itunes:summary>Jampal Norbu Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/36.mp3" length="94799539" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/36.mp3</guid>
+      <pubDate>Sun, 09 May 2010 10:00:00 MST</pubDate>
+      <itunes:duration>01:05:49</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+<item> 
+     <title>The Link #37: Drive All Blames Into One: Life as an Opportunity for Learning</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Crestione, 16 May, 2010</itunes:subtitle>
+      <itunes:summary>Elizabeth Mattis Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/37.mp3" length="84168662" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/37.mp3</guid>
+      <pubDate>Sun, 16 May 2010 10:00:00 MST</pubDate>
+      <itunes:duration>58:26</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>	
+
+<item> 
+     <title>The Link #38: Death: A Practicioner's Comtemplations</title>
+      <itunes:author>Bob Reid</itunes:author>
+      <itunes:subtitle>Bob Reid from Phuntsok Choling, Ward, CO, 23 May, 2010</itunes:subtitle>
+      <itunes:summary>Bob Reid</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/38.mp3" length="71924424" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/38.mp3</guid>
+      <pubDate>Sun, 23 May 2010 10:00:00 MST</pubDate>
+      <itunes:duration>49:56</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item> 
+     <title>The Link #39: Supplication</title>
+      <itunes:author>Mark Smith</itunes:author>
+      <itunes:subtitle>Mark Smith  from Phuntsok Choling, Ward, CO, 30 May, 2010</itunes:subtitle>
+      <itunes:summary>Mark Smith</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/39.mp3" length="28843239" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/39.mp3</guid>
+      <pubDate>Sun, 30 May 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:05</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>	
+
+<item> 
+     <title>The Link #41: Not Taking Ourselves Too Seriously: Accomplishment Without Grasping</title>
+      <itunes:author>Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Jampal Norbu Namgyel from Phuntsok Choling, Ward, CO, 13 Jun, 2010</itunes:subtitle>
+      <itunes:summary>Jampal Norbu Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/41.mp3" length="85639963" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/41.mp3</guid>
+      <pubDate>Sun, 13 Jun 2010 10:00:00 MST</pubDate>
+      <itunes:duration>59:28</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+    <item> 
+      <title>The Link #42: Three Aspects of Faith by Elizabeth Mattis-Namgyel, 20 Jun 2010</title>
+      <itunes:author>Elizabeth Mattis-Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis-Namgyel -- Pre-recorded talk originally given at the Shambhala Ctr of NY, 10 Apr 2010</itunes:subtitle>
+      <itunes:summary>Elizabeth Mattis-Namgyel</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/42_ThreeAspectsOfFaith_ForLINK.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/42_ThreeAspectsOfFaith_ForLINK.mp3</guid>
+      <pubDate>Sun, 20 Jun 2010 12:00:00 MST</pubDate>
+      <itunes:duration>1:10:30</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+	<item> 
+      <title>The Link #43: Natasha Carter's Link, 27 Jun 2010</title>
+      <itunes:author>Natasha Carter</itunes:author>
+      <itunes:subtitle>Natasha Carter</itunes:subtitle>
+      <itunes:summary>Natasha Carter</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_06_27_LINK.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_06_27_LINK.mp3</guid>
+      <pubDate>Sun, 27 Jun 2010 10:00:00 MST</pubDate>
+      <itunes:duration>55:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item> 
+      	<title>The Link Legacy Series: Kongtrul Rinpoche from Lerab Ling, 18 Aug 2008</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Lerab Ling, 18 Aug 2008</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/42.mp3" length="21951170" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/42.mp3</guid>
+      <pubDate>Sun, 4 Jul 2010 10:00:00 MST</pubDate>
+      <itunes:duration>45:43</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item> 
+	     <title>The Link Legacy Series: Cutting Through the Haunted Dominion of Mind (verse 27)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Samten Ling, 26 May 2002</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/43.mp3" length="8018547" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/43.mp3</guid>
+      <pubDate>Sun, 26 May 2002 12:00:00 MST</pubDate>
+      <itunes:duration>44:32</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item> 
+	     <title>The Link Legacy Series: Fear and Fearlessness</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Samten Ling, 22 March 1999, Personal Link #35</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_07_18_LINK35_DKR.mp3" length="55525871" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_07_18_LINK35_DKR.mp3</guid>
+      <pubDate>Sun, 18 Jul 2010 10:00:00 MST</pubDate>
+      <itunes:duration>57:50</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+	<item> 
+	     <title>The Link Legacy Series: Sense of Humour</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Samten Ling, 25 April 1999, Personal Link #39</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_07_25_LINK.mp3" length="55525871" 		type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_07_25_LINK.mp3</guid>
+      <pubDate>Sun, 25 Jul 2010 10:00:00 MST</pubDate>
+      <itunes:duration>57:50</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+<item> 
+	     <title>The Link Legacy Series: Searching for Wealth Outside: Ignoring the Mind</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Samten Ling, 09 July 2000, Personal Link #80</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_08_01_LINK.mp3" length="55525871" 		type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_08_01_LINK.mp3</guid>
+      <pubDate>Sun, 1 Aug 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:50</itunes:duration>
+      <itunes:keywords>dzigar kongtrul rinpoche, personal link, mangala shri bhuti</itunes:keywords>
+    </item>
+
+	<item> 
+	     <title>The Link Legacy Series: Not a One-Hand Clap</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Samten Ling, 21 January 2001, Personal Link #89</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_08_08_LINK.mp3" length="55525871" 		type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_08_08_LINK.mp3</guid>
+      <pubDate>Sun, 8 Aug 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:50</itunes:duration>
+      <itunes:keywords>dzigar kongtrul rinpoche, personal link, mangala shri bhuti</itunes:keywords>
+    </item>
+
+<item> 
+	     <title>The Link Legacy Series: Using Kerosene to Put out the Fire</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Phuntsok Choling, 27 April 2003, Personal Link #176</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_08_15_LINK.mp3" length="55525871" 		type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_08_15_LINK.mp3</guid>
+      <pubDate>Sun, 15 Aug 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:50</itunes:duration>
+      <itunes:keywords>dzigar kongtrul rinpoche, personal link, mangala shri bhuti</itunes:keywords>
+    </item>
+	
+	<item> 
+	     <title>The Link Legacy Series: To Be Free of Mind's Illusion</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Samten Ling, 16 May 1999, Personal Link #42</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche discusses how we can be free of the illusion of relative truth through resting in the absolute nature of our minds.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_08_22_LINK.mp3" length="55525871" 		type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_08_22_LINK.mp3</guid>
+      <pubDate>Sun, 22 Aug 2010 10:00:00 MST</pubDate>
+      <itunes:duration>80:00</itunes:duration>
+      <itunes:keywords>dzigar kongtrul rinpoche, personal link, mangala shri bhuti</itunes:keywords>
+    </item>
+	
+	<item> 
+	     <title>The Link Legacy Series: A Strong Case Against Attachment</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Osel Ling, 2 March 2003, Personal Link #171</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche 'makes a case' against attachment, emphasizing how logic and reason can be a force for change in working with our habits.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_08_29_LINK.mp3" length="55525871" 		type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_08_29_LINK.mp3</guid>
+      <pubDate>Sun, 29 Aug 2010 10:00:00 MST</pubDate>
+      <itunes:duration>70:00</itunes:duration>
+      <itunes:keywords>dzigar kongtrul rinpoche, personal link, mangala shri bhuti</itunes:keywords>
+    </item>
+	
+	<item> 
+	     <title>The Link Legacy Series: Dynamics of Insecurity, Two Kinds of Merit</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Osel Ling, 11 March 2001, Personal Link #96</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche adresses how merit, especially the merit to mature, relates to our ability to overcome a pervasive suffering, that of insecurity.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_09_19_LINK__PL_096_2001_03_11.mp3" length="55525871" 		type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_09_19_LINK__PL_096_2001_03_11.mp3</guid>
+      <pubDate>Sun, 19 Sep 2010 10:00:00 MST</pubDate>
+      <itunes:duration>70:00</itunes:duration>
+      <itunes:keywords>dzigar kongtrul rinpoche, personal link, mangala shri bhuti</itunes:keywords>
+    </item>
+	
+	<item> 
+	     <title>The Link Legacy Series: Dancing with Habits and Fears</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from New York City, 7 May 200, Personal Link #72</itunes:subtitle>
+      <itunes:summary>Dzigar Kongtrul Rinpoche suggests we needn't automatically feel doomed under the power of our habits. We need to approach them with a sense of relaxation - not giving them too much power by fearing them - and learning to 'dance' with their enegery.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_09_26_LINK__PL_072_2000_05_07.mp3" length="55525871" 		type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_09_26_LINK__PL_072_2000_05_07.mp3</guid>
+      <pubDate>Sun, 26 Sep 2010 10:00:00 MST</pubDate>
+      <itunes:duration>70:00</itunes:duration>
+      <itunes:keywords>dzigar kongtrul rinpoche, personal link, mangala shri bhuti</itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>The Link #44: Mangala Shri Bhuti's Mission: Service and Meditation</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Rinpoche's LINK from Berkeley, CA.</itunes:subtitle>
+      <itunes:summary>Rinpoche restates the mission of Mangala Shri Bhuti: a life of service and of deepening one's nature of mind practice as a naljor.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_10_03_LINK.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_10_03_LINK.mp3</guid>
+      <pubDate>Sun, 3 Oct 2010 10:00:00 MST</pubDate>
+      <itunes:duration>40:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>The Link Legacy Series: Elegance and Grace</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Samten Ling, May 14, 2000, Personal Link #73.</itunes:subtitle>
+      <itunes:summary>"Many people feel they were born clumsy and will die clumsy", Rinpoche says. But the relaxation that comes through practice gives rise to a natural elegance and grace.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_09_12_LINK__PL_073_2000_05_14.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_09_12_LINK__PL_073_2000_05_14.mp3</guid>
+      <pubDate>Sun, 10 Oct 2010 10:00:00 MST</pubDate>
+      <itunes:duration>40:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>The Link #45: Exploring Absolute Bodhicitta</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu from Phuntsok Choling.</itunes:subtitle>
+      <itunes:summary>Dungse Jampal Norbu explores some of the misconceptions one may naturally have about emptiness and its relation to relative experience.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_10_17_LINK45_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_10_17_LINK45_DJN.mp3</guid>
+      <pubDate>Sun, 17 Oct 2010 10:00:00 MST</pubDate>
+      <itunes:duration>65:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>The Link #46: Emic, Edic and Faith</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Osel Ling, Crestone, CO.</itunes:subtitle>
+      <itunes:summary>Elizabeth discusses another angle on our experience of faith</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_10_24_LINK46_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_10_24_LINK46_EMN.mp3</guid>
+      <pubDate>Sun, 24 Oct 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>Gifts of Silence (Link #47) </title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Bir, India</itunes:subtitle>
+      <itunes:summary>Rinpoche speaks on the power of keeping silent to bring our mental patterns into light and make our choice to 'drop it' and turn our focus to impermanence and appreciation of simplicity.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_11_07_LINK47_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_11_07_LINK47_DKR.mp3</guid>
+      <pubDate>Sun, 7 Nov 2010 10:00:00 MST</pubDate>
+      <itunes:duration>20:49</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Impermanence, Silence</itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>Is it Karma or Fate? (Link #48)</title>
+      <itunes:author>Dungse Jampal Norbu Namgyel</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu Namgyel from Bir, India</itunes:subtitle>
+      <itunes:summary>Dungse Jampal explores karma in this eloquent and insightful talk. By identifying two types of karma, personal and general (general meaning phenomena like gravity), we can address what in our karma we can do something about through practice and the view. The Q and A contains engaging discussion of topics such as fate.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_11_14_LINK48_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_11_14_LINK48_DJN.mp3</guid>
+      <pubDate>Sun, 14 Nov 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:00</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Karma, Fate</itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>"Something too important to forget." (Link #49)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>Elizabeth Mattis Namgyel comments on the poem, "The Art of Disappearing", by Naomi Shahib Nye. Renunciation expresses our deeper focus ("something too important to forget") rather than a loss of things desireable.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.org/link/audio/EMN_LINK_49_112110.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.org/link/audio/EMN_LINK_49_112110.mp3</guid>
+      <pubDate>Sun, 21 Nov 2010 10:00:00 MST</pubDate>
+      <itunes:duration>52:00</itunes:duration>
+      <itunes:keywords>elizabeth mattis namgyel, renunciation, naomi shahib nye</itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>Exploring the FourImmeasurables Practice (Link #50)</title>
+      <itunes:author>Khenchung Bob Reid</itunes:author>
+      <itunes:subtitle>Khenchung Bob Reid from Osel Ling, Crestone, CO.</itunes:subtitle>
+      <itunes:summary>Note: This recording begins a few minutes into the talk and has some glitches, but recovers quickly. Bob Reid looks at the practice of regarding one's friends and enemies equally, as discussed in Khenpo Ngawang Pelang's "A Guide to the Words of My Perfect Teacher".</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_11_28_Link50_BobReid.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_11_28_Link50_BobReid.mp3</guid>
+      <pubDate>Sun, 28 Nov 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:00</itunes:duration>
+      <itunes:keywords>Bob Reid, Four Immeasurables, Words of My Perfect Teacher</itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>In the Blink of An Eye(Link #51)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Guna Institute, Bir, India.</itunes:subtitle>
+      <itunes:summary>Kongtrul Rinpoche reminds us how fast time passes, from a day to a month, a year—and then our entire life. What will we have made of this precious opportunity? How do we determine what is important, and not? Will we talk in the footsteps of those who have made communicating the dharma to others their priority?.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_12_06_LINK51_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_12_06_LINK51_DKR.mp3</guid>
+      <pubDate>Sun, 5 Dec 2010 10:00:00 MST</pubDate>
+      <itunes:duration>50:00</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Impermanence</itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>Karma and Responsibility (Link #52)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu from Guna Institute, Bir, India.</itunes:subtitle>
+      <itunes:summary>Dungse Jampal Norbu continues his exploration of karma. While dieties and our teachers 'supplement' our path, we each must clarify how our intention informs our actions as we seek to walk toward awakening.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_12_06_LINK52_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_12_06_LINK52_DJN.mp3</guid>
+      <pubDate>Sun, 12 Dec 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:00</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Repsonsibility, Karma</itunes:keywords>
+    </item>
+	
+	<item> 
+      <title>What Drives us? (Link #53)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel from Osel Ling, Crestone, CO.</itunes:subtitle>
+      <itunes:summary>Elizabeth suggests that we need to examine where our mind is coming from when we feel driven.  Is it tight, fearful and contracted?  Is there something inside that is unsettled?  That discomfort is often then projected to the outside world.  If we stop, look at our minds and relax with the discomfort, we might find things are not what we think.  Things can shift very quickly.  Loneliness can change into fullness, fixation can change into openness.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_12_19_LINK53_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_12_19_LINK53_EMN.mp3</guid>
+      <pubDate>Sun, 19 Dec 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:00</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Shenpa, Momentum</itunes:keywords>
+    </item>
+
+	
+	<item> 
+      <title>What motivates us to practice? (Link #54)</title>
+      <itunes:author>Joseph Waxman</itunes:author>
+      <itunes:subtitle>Joseph Waxman from Boston, MA</itunes:subtitle>
+      <itunes:summary>Joey Waxman, one of Mangala Shri Bhuti's khenchungs, examines his own motivation for practice, and asks the question, "how do you develop disciplne without being hard on yourself", in this personal and honest link</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2010_12_26_LINK54_JLW.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2010_12_26_LINK54_JLW.mp3</guid>
+      <pubDate>Sun, 26 Dec 2010 10:00:00 MST</pubDate>
+      <itunes:duration>60:00</itunes:duration>
+      <itunes:keywords>Motivation</itunes:keywords>
+    </item>
+
+<item> 
+      <title>Welcoming the New Year: Clarity about the Past and Intention for the Future (Link #55)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Guna Institute, Bir, India</itunes:subtitle>
+      <itunes:summary>New Year is a good time to review the past year to evaluate what has worked for us and what has not, what has been beneficial to others and what has not.  Since we are human and not perfect, we are subject to errors and confusions.  But these can be remedied.  If we contemplate our mistakes with joy and without guilt, if we face our errors in judgment with courage and learn from our mistakes, we can have a clear conscience</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_01_02_LINK55_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_01_02_LINK55_DKR.mp3</guid>
+      <pubDate>Sun, 2 Jan 2011 10:00:00 MST</pubDate>
+      <itunes:duration>50:00</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, New Year's Resolutions, Clean conscience</itunes:keywords>
+    </item>
+	
+<item>	
+	
+	<title>How to Accomplish a New Year's Resolution (Link #56)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Guna Institute, Bir, India</itunes:subtitle>
+      <itunes:summary>The beginning of the new year is a time when people often make resolutions to change.   They might want to quit a bad habit such as smoking or excessive drinking, or to cultivate something such as healthy eating in order to lose weight.  But often these good intentions fall by the wayside and are never carried out.  In order to actually accomplish one's intention, one needs in addition to intention, a vision.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_01_09_LINK56_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_01_09_LINK56_DJN.mp3</guid>
+      <pubDate>Sun, 9 Jan 2011 10:00:00 MST</pubDate>
+      <itunes:duration>45:00</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, New Year's Resolutions</itunes:keywords>
+	  </item>
+	  
+	  
+<item>	  
+	  
+	  <title>Commentary on "Looking into the World", a poem by Chogyam Trungpa Rinpoche (Link #57)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Osel Ling, Crestone, CO</itunes:subtitle>
+      <itunes:summary>What does Trungpa, Rinpoche mean by "don't trust"?  He is not addressing things that are conventionally untrustworthy such as drug dealers, used car salesmen or large corporations.  He is talking about the world always changing and not behaving according to our preferences.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_01_16_LINK57_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_01_16_LINK57_EMN.mp3</guid>
+      <pubDate>Sun, 16 Jan 2011 10:00:00 MST</pubDate>
+      <itunes:duration>55:00</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Chogyam Trungpa Rinpoche, Trust</itunes:keywords>
+	 </item>
+	  
+	 
+	  <item>	  
+	  <title>A Short Personal History (Link #58)</title>
+      <itunes:author>Rebecca Zepp</itunes:author>
+      <itunes:subtitle>Rebecca Zepp, from Phuntsok Choling, Boulder, CO</itunes:subtitle>
+      <itunes:summary>Rebecca recounts how she entered the Buddhist path and her experience as a student of Dzigar Kongtrul Rinpoche over the last 20 years. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_01_23_LINK58_RZ.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_01_23_LINK58_RZ.mp3</guid>
+      <pubDate>Sun, 23 Jan 2011 10:00:00 MST</pubDate>
+      <itunes:duration>27:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+	 </item>
+	  
+	  
+<item>	  
+	    <title>Opening the Door to Emptiness (Link #59)</title>
+      <itunes:author>Ani Pema Chodron</itunes:author>
+      <itunes:subtitle>Ani Pema Chodron, from Gampo Abbey, Cape Breton, Nova Scotia</itunes:subtitle>
+      <itunes:summary>When we hear about the emptiness things, we might visualize that emptiness is like a hologram, having form but no substance.  However, nothing we think of can actually prepare us for what the real experience of emptiness is like in life.  The way our conventional mind works cannot grasp it.  Chogyam Trungpa, Rinpoche describes the sunyata or emptiness experience as "a state where things fade out (stet) and future possibilities have not arisen."  It also can be experienced as not knowing what to do.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_01_30_LINK59_APC.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_01_30_LINK59_APC.mp3</guid>
+      <pubDate>Sun, 30 Jan 2011 10:00:00 MST</pubDate>
+      <itunes:duration>56:00</itunes:duration>
+      <itunes:keywords>Ani Pema Chodron, Emptiness</itunes:keywords>
+	  
+	</item>
+	
+	<item>	  
+	    <title>How to Meditate (Link #60)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Guna Institute, Bir, India</itunes:subtitle>
+      <itunes:summary>The first in a series of four recordings of Rinpoche played in February, 2011, all taken from teachings he gave during the Fall/Winter semester at Guna Institute, 2010 - 2011. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/VDKR_Dec23_HowToMeditate.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/VDKR_Dec23_HowToMeditate.mp3</guid>
+      <pubDate>Sun, 6 Feb 2011 10:00:00 MST</pubDate>
+      <itunes:duration>50:00</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Meditation</itunes:keywords>
+	  
+	</item>
+	
+	<item>	  
+	    <title>The Medicine of the Four Immeasurables (Link #61)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Guna Institute, Bir, India</itunes:subtitle>
+      <itunes:summary>The second in a series of four recordings of Rinpoche played in February, 2011, all taken from teachings he gave during the Fall/Winter semester at Guna Institute, 2010 - 2011. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/VDKR_Dec29_TheMedicineof4Immeasurables.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/VDKR_Dec29_TheMedicineof4Immeasurables.mp3</guid>
+      <pubDate>Sun, 13 Feb 2011 10:00:00 MST</pubDate>
+      <itunes:duration>1:06:40</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Four Immeasurables</itunes:keywords>
+	  
+	</item>
+	
+	<item>	  
+	    <title>The Purpose of Generating Bodhicitta (Link #62)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Guna Institute, Bir, India</itunes:subtitle>
+      <itunes:summary>The third in a series of four recordings of Rinpoche played in February, 2011, all taken from teachings he gave during the Fall/Winter semester at Guna Institute, 2010 - 2011. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/VDKR_Nov26_ThePurposeOfGeneratingBodhicitta.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/VDKR_Nov26_ThePurposeOfGeneratingBodhicitta.mp3</guid>
+      <pubDate>Sun, 20 Feb 2011 10:00:00 MST</pubDate>
+      <itunes:duration>31:43</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Bodhicitta</itunes:keywords>
+	  
+	</item>
+	
+	<item>	  
+	    <title>Understanding How We Suffer (Link #63)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Guna Institute, Bir, India</itunes:subtitle>
+      <itunes:summary>The final talk in a series of four recordings of Rinpoche played in February, 2011, all taken from teachings he gave during the Fall/Winter semester at Guna Institute, 2010 - 2011. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/VDKR_Dec10_UnderstandingHowWeSuffer.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/VDKR_Dec10_UnderstandingHowWeSuffer.mp3</guid>
+      <pubDate>Sun, 27 Feb 2011 10:00:00 MST</pubDate>
+      <itunes:duration>36:23</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Suffering</itunes:keywords>
+	  
+	</item>
+	
+<item>	  
+	    <title>2011 Losar Address (Link #64)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Crestone, CO.</itunes:subtitle>
+      <itunes:summary>2011 Losar Address. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_03_06_LINK64_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_03_06_LINK64_DKR.mp3</guid>
+      <pubDate>Sun, 06 Mar 2011 10:00:00 MST</pubDate>
+      <itunes:duration>44:16</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, 2011 Losar Address</itunes:keywords>
+	  
+	</item>
+<item>	  
+	    <title>Small Self, Large Self (Link #65)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Bodghaya, India</itunes:subtitle>
+      <itunes:summary>Expanding the view beyond the self and the resultant relief from the suffering of the five negative emotions and the concept of "Small Self, Large Self".</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_03_13_LINK65_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_03_13_LINK65_DJN.mp3</guid>
+      <pubDate>Sun, 13 Mar 2011 10:00:00 MST</pubDate>
+      <itunes:duration>20:59</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Small Self, Large Self</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Bearing Witness (Link #66)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Vero Beach, Florida</itunes:subtitle>
+      <itunes:summary>In this talk Elizabeth discusses how to not close down around either beauty or suffering.  She describes bearing witness as the inner practice of the Bodhisattva where as one serves one awakens and moves toward connectedness and interdependence. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_03_20_LINK66_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_03_20_LINK66_EMN.mp3</guid>
+      <pubDate>Sun, 20 Mar 2011 10:00:00 MST</pubDate>
+      <itunes:duration>60:01</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Bearing Witness</itunes:keywords>
+	  
+	</item>
+	
+	<item>	  
+	    <title>Shoot the Hostage: The Wisdom of Letting Go May at First Seem Counterintuitive (Link #67)</title>
+      <itunes:author>Scott Gallagher</itunes:author>
+      <itunes:subtitle>Scott Gallagher, from Osel Ling, Crestone, CO</itunes:subtitle>
+      <itunes:summary>Scott describes the impact Kongtrul Rinpoche's introduction to the way ego mind works has on our mind. With that knowledge, when strong clinging to the self comes about, we know what to do, though letting go at first may seem counterintuitive to the whole process ego sets up. So we must 'shoot the hostage'... Listen to find out more. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_03_27_LINK67_RSG.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_03_27_LINK67_RSG.mp3</guid>
+      <pubDate>Sun, 27 Mar 2011 10:00:00 MST</pubDate>
+      <itunes:duration>29:00</itunes:duration>
+      <itunes:keywords>R Scott Gallagher, Letting Go</itunes:keywords>
+	  
+	</item>
+
+	<item>	  
+	    <title>A Moment of Pure Sympathetic Joy: The Cricket World Cup and The Power of Mind to Bring Happiness (Link #68)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from India</itunes:subtitle>
+      <itunes:summary>Rinpoche reflects on how the Cricket World Cup united one billion people of all classes, colors and ages in a moment of pure joy. He contemplated how we could cultivate this same sympathetic joy in our daily lives towards even the smallest act of savings a bug and the power of our mind to bring about real happiness and contentment in this way, despite our external conditions. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_04_03_LINK68_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_04_03_LINK68_DKR.mp3</guid>
+      <pubDate>Sun, 03 Apr 2011 10:00:00 MST</pubDate>
+      <itunes:duration>56:26</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, A Moment of Pure Joy</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Reflections on Faith (Link #69)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Bir, India</itunes:subtitle>
+      <itunes:summary>Dungse-la reflects on the power of faith and gives suggestions on how to cultivate faith. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_04_10_LINK69_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_04_10_LINK69_DJN.mp3</guid>
+      <pubDate>Sun, 10 Apr 2011 10:00:00 MST</pubDate>
+      <itunes:duration>51:46</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Reflections on Faith</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Determined Focus (Link #70)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Bir, India</itunes:subtitle>
+      <itunes:summary>Rinpoche invesigates the five strengths. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_04_17_LINK70_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_04_17_LINK70_DKR.mp3</guid>
+      <pubDate>Sun, 17 Apr 2011 10:00:00 MST</pubDate>
+      <itunes:duration>59:54</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Determined Focus</itunes:keywords>
+</item>
+
+<item>	  
+	    <title>Letting Go Leads to Liberation (Link #71)</title>
+      <itunes:author>Natasha Carter</itunes:author>
+      <itunes:subtitle>Natasha Carter, from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>Natasha discusses challenges faced in retreat. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_04_24_LINK71_NHC.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_04_24_LINK71_NHC.mp3</guid>
+      <pubDate>Sun, 24 Apr 2011 10:00:00 MST</pubDate>
+      <itunes:duration>59:54</itunes:duration>
+      <itunes:keywords>Natasha Carter, Letting Go</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Starstruck- A Dubious State (Link #72)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Bir, India</itunes:subtitle>
+      <itunes:summary>Rinpoche describes how to skillfully use the power of inspiration that comes from being "starstruck" and gives clear examples of how to, and how not to follow through with that inspriration. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_05_01_LINK72_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_05_01_LINK72_DKR.mp3</guid>
+      <pubDate>Sun, 01 May 2011 10:00:00 MST</pubDate>
+      <itunes:duration>59:32</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Starstruck</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Essence of Mother's Day (Link #73)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Bir, India</itunes:subtitle>
+      <itunes:summary>Jampal contemplates materialistic mind in the modern world and discusses the remedy to the mistaken belief that "things bring happiness". </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_05_08_LINK73_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_05_08_LINK73_DJN.mp3</guid>
+      <pubDate>Sun, 08 May 2011 10:00:00 MST</pubDate>
+      <itunes:duration>49:04</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, The Essence of Mother's Day</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Propensity To be Bothered (Link #74)</title>
+      <itunes:author>Ani Pema Chodron</itunes:author>
+      <itunes:subtitle>Ani Pema Chodron, from Pema Osel, Vershire, Vermont</itunes:subtitle>
+      <itunes:summary>Ani Pema provides a commentary on the Lojong slogan, "Drive All Blames Into One", and gives us tips on distinguishing between what causes our suffering and what triggers it. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_05_15_LINK74_APC.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_05_15_LINK74_APC.mp3</guid>
+      <pubDate>Sun, 15 May 2011 10:00:00 MST</pubDate>
+      <itunes:duration>52:21</itunes:duration>
+      <itunes:keywords>Ani Pema Chodron, The Propensity To Be Bothered</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Certainty (Link #75)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>How do we develop a certainty that is not static or about being a 'knower'? Elizabeth delves into the question of having confidence in an uncertain world and upon what that confidence is based. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_05_22_LINK75_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_05_22_LINK75_EMN.mp3</guid>
+      <pubDate>Sun, 22 May 2011 10:00:00 MST</pubDate>
+      <itunes:duration>1:26:00</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Certainty</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Exertion: Honoring our Buddha Nature (Link #76)</title>
+      <itunes:author>Sasha Dorje Meyerowitz</itunes:author>
+      <itunes:subtitle>Sasha Dorje Meyerowitz, from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>Exertion: honoring our Buddha nature. Sasha explores how to experience exertion as a natural expression of our Buddha nature. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_05_29_LINK76_SDM.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_05_29_LINK76_SDM.mp3</guid>
+      <pubDate>Sun, 29 May 2011 10:00:00 MST</pubDate>
+      <itunes:duration>55:33</itunes:duration>
+      <itunes:keywords>Sasha Dorje Meyerowitz, Exertion: Honoring Our Buddha Nature</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Five Steps to Handle Chaos (Link #77)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche</itunes:subtitle>
+      <itunes:summary>Five Steps to Handle Chaos. Rinpoche explains five steps to skillfully handle situations when chaos arises in our lives, talks about the practice of acceptance and harvesting the pain of failure to gain success. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_06_05_LINK77_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_06_05_LINK77_DKR.mp3</guid>
+      <pubDate>Sun, 05 Jun 2011 10:00:00 MST</pubDate>
+      <itunes:duration>33:39</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Five Steps to Handle Chaos</itunes:keywords>
+	  
+	</item>
+	
+	
+<item>	  
+	    <title>Maintaining Awareness as a Bodhicitta Practice (Link #78)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Bir, India</itunes:subtitle>
+      <itunes:summary>Dungse-la observes that in our fast paced modern world, awareness often gets "stretched thin." Without awareness, there's more of a chance that the five negative emotions will slip in and overtake our mind. So putting an emphasis on maintaining awareness as a bodhcitta practice bridges the gap between meditation and post meditation practice, allowing us to carry out working with the paramitas to counter the negative emotions in our daily lives, even with the speed of modernity. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_06_12_LINK78_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_06_12_LINK78_DJN.mp3</guid>
+      <pubDate>Sun, 12 Jun 2011 10:00:00 MST</pubDate>
+      <itunes:duration>50:00</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Bodhicitta, Awareness</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Letting Go Into Humbleness (Link #79)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>Elizabeth shares her personal experiences in relating with her teacher and describes the skillful means and "practice" in this relationship. Elizabeth describes what it means to be a student and the discipline of falling apart and letting go into humbleness. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_06_19_LINK79_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_06_19_LINK79_EMN.mp3</guid>
+      <pubDate>Sun, 19 Jun 2011 10:00:00 MST</pubDate>
+      <itunes:duration>1:13:02</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Student-Teacher Relationship</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>What Is Happiness? (Link #80)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche Legacy Series, From Guna Institute, Bir, India, May 16, 2011.</itunes:subtitle>
+      <itunes:summary>Rinpoche talks about the necessity of some suffering in developing a happy and cheerful mind that has stability. He goes on to discuss how to experience growth.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_06_26_LINK80_DKR(L).mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_06_26_LINK80_DKR(L).mp3</guid>
+      <pubDate>Sun, 26 Jun 2011 10:00:00 MST</pubDate>
+      <itunes:duration>1:01:55</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, What Is Happiness?</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Organized Mind (Link #81)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche Legacy Series, from Guna Institute, Bir, India, April 18, 2011</itunes:subtitle>
+      <itunes:summary> Rinpoche discusses the tendency for humans to feel the "privilege"of self-pity and contrasts this with the qualities of a mature mind. Rinpoche explores the differences of feeling burdened by the sufferings of samsara versus feeling encouraged to find a solution. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_07_03_LINK81_DKR(L).mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_07_03_LINK81_DKR(L).mp3</guid>
+      <pubDate>Sun, 03 Jul 2011 10:00:00 MST</pubDate>
+      <itunes:duration>1:02:20</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Organized Mind</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Affliction of Timuk (Link #82)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary>Dungse-la speaks about Timuk- "a dull flat state of disconnectedness" and outlines various remedies including mindfulness, a keen awareness of one's environment and how the practice of the four noble truths brings us back. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_07_10_LINK82_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_07_10_LINK82_DJN.mp3</guid>
+      <pubDate>Sun, 10 Jul 2011 10:00:00 MST</pubDate>
+      <itunes:duration>57:34</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, The Affliction of Timuk</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Exploring Beliefs (Link #83)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Crestone Colorado</itunes:subtitle>
+      <itunes:summary>Elizabeth explores the many usages of the word "belief", how we experience beliefs and belief as it relates to the Buddha's teachings on emptiness and the Middle Way. Talk given from Crestone, Colorado. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_07_17_LINK83_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_07_17_LINK83_EMN.mp3</guid>
+      <pubDate>Sun, 17 Jul 2011 10:00:00 MST</pubDate>
+      <itunes:duration>1:27:48</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Beliefs</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Awakening In The Charnel Ground (Link #84)</title>
+      <itunes:author>Ani Pema Chodron</itunes:author>
+      <itunes:subtitle>Ani Pema Chodron, from Osel Ling, Crestone Colorado</itunes:subtitle>
+      <itunes:summary> Pema explains how the hardest of circumstances can be the greatest opportunity for awakening. She offers steps toward staying "awake and open" to the intensity and describes how emotions become a catalyst for emptiness or egolessness. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_07_24_LINK84_APC.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_07_24_LINK84_APC.mp3</guid>
+      <pubDate>Sun, 24 Jul 2011 10:00:00 MST</pubDate>
+      <itunes:duration>59:41</itunes:duration>
+      <itunes:keywords>Ani Pema Chodron, Awakening In The Charnel Ground</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Psychology and Buddhism (Link #85)</title>
+      <itunes:author>Gretchen Kahre-Holland</itunes:author>
+      <itunes:subtitle>Gretchen Kahre-Holland, from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary> Gretchen speaks about mind and emotions from her experience as a western and contemplative psychologist and a Buddhist practitioner. She explains how the practice of tonglen combats the two tendencies and protects from impulsivity, while holding a space for others. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_07_31_LINK85_GKH.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_07_31_LINK85_GKH.mp3</guid>
+      <pubDate>Sun, 31 Jul 2011 10:00:00 MST</pubDate>
+      <itunes:duration>1:01:40</itunes:duration>
+      <itunes:keywords>Gretchen Kahre-Holland, Psychology and Buddhism</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Back To Our Roots (Link #86)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Warsaw, Poland</itunes:subtitle>
+      <itunes:summary> Rinpoche encourages us to get back to our roots by transforming our state of mind with the four samtens, the Four Immeasurables as a daily practice, in order to have a rich internal life. He describes in detail the first two stages of bodhisattva training, generating respectful equality and universal love and care for all beings. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_08_07_LINK86_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_08_07_LINK86_DKR.mp3</guid>
+      <pubDate>Sun, 07 Aug 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 49:16</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Back To Our Roots</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Individual and The Community (Link #87)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Ward, Colorado</itunes:subtitle>
+      <itunes:summary> Dungse-la discusses the necessity of having a solid "individual life" as a foundation to be of benefit to the larger community, which he defines as all sentient beings. He describes how thinking of and caring for others brings greater joy than caring for ourselves, and with repeated practice how the "illusion of duality begins to fade." </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_08_14_LINK87_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_08_14_LINK87_DJN.mp3</guid>
+      <pubDate>Sun, 14 Aug 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 1:11:30</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, The Individual and The Community</itunes:keywords>
+	  
+	</item>
+ 
+<item>	  
+	    <title>Loving Even More.....After Grief and Loss (Link #88)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Osel Ling, Crestone, Colorado</itunes:subtitle>
+      <itunes:summary> Elizabeth describes brokenheartedness as seeing the nature of impermanence vividly, and discusses why heartbreak and loss are critical for a practitioner--how the "sting" of loss is necessary in creating an openheartedness, which is the place where practitioners need to reside. She describes how loss pushes us in the direction of a bigger way of being. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_08_21_LINK88_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_08_21_LINK88_EMN.mp3</guid> 
+      <pubDate>Sun, 21 Aug 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 1:04:33</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Loving Even More....After Grief and Loss</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Joy of Sadness (Link #89)</title>
+      <itunes:author>Khenchung Vern Mizner</itunes:author>
+      <itunes:subtitle>Khenchung Vern Mizner, from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary> Vern contemplates why we fear sadness and describes the richness inherent in sadness--a genuine part of the human experience worth exploring in its own right. He describes the beauty and joy of sadness and why this "emotion" was held in high regard by the lineage masters.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_08_28_LINK89_KVM.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_08_28_LINK89_KVM.mp3</guid> 
+      <pubDate>Sun, 28 Aug 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 58:07</itunes:duration>
+      <itunes:keywords>Khenchung Vern Mizner, The Joy of Sadness</itunes:keywords>
+	  
+	</item>
+	
+	<item>	  
+		    <title>The Predator Mentality and Developing Bodhicitta (Link Legacy Series)</title>
+	      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+	      <itunes:subtitle>Pre-recorded talk by Dzigar Kongtrul Rinpoche</itunes:subtitle>
+	      <itunes:summary>This excerpt from the 2011 Dzogchen Seminar explores what Rinpoche calls the "predator mentality", the default state of mind in samsara when you do not reflect on how yourself and all beings desire happiness equally.</itunes:summary>
+	      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_09_04_Legacy_PredatorMentality.mp3" length="67689324" type="audio/mpeg" />
+	      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_09_04_Legacy_PredatorMentality.mp3</guid> 
+	      <pubDate>Sun, 4 Sep 2011 10:00:00 MST</pubDate>
+	      <itunes:duration> 58:23</itunes:duration>
+	      <itunes:keywords>Dzigar Kongtrul, bodhicitta, predator mentality</itunes:keywords>
+
+		</item>
+		
+		<item>
+		<title>How Learning Should Shape the Mind (Link Legacy Series)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Pre-recorded talk by Dzigar Kongtrul Rinpoche from Guna Institute.</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_09_11_Legacy_LearningShapeMind.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_09_11_Legacy_LearningShapeMind.mp3</guid> 
+      <pubDate>Sun, 11 Sep 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 59:41</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul, study</itunes:keywords>
+
+	</item>
+	
+		<item>
+		<title>Child of Enlightened Nature (Link Legacy Series)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Pre-recorded talk by Dzigar Kongtrul Rinpoche from Guna Institute.</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_09_18_Legacy_ChildEnlightenedNature.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_09_18_Legacy_ChildEnlightenedNature.mp3</guid> 
+      <pubDate>Sun, 18 Sep 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 49:20</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul</itunes:keywords>
+
+	</item>
+	
+		<item>
+		<title>Purifying the Small Self (Link Legacy Series)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Pre-recorded talk by Dzigar Kongtrul Rinpoche from the 2011 Shedra</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_09_25_Legacy_PurifyingSmallSelf.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_09_25_Legacy_PurifyingSmallSelf.mp3</guid> 
+      <pubDate>Sun, 25 Sep 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 41:35</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul, bodhicitta, predator mentality</itunes:keywords>
+
+	</item>
+
+		<item>
+		<title>Purifying the Small Self (Link Legacy Series)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Pre-recorded talk by Dzigar Kongtrul Rinpoche from the 2011 Shedra</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_10_02_Legacy_PurifyingSmallSelf.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_10_02_Legacy_PurifyingSmallSelf.mp3</guid> 
+      <pubDate>Sun, 02 Oct 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 41:35</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul, bodhicitta, predator mentality</itunes:keywords>
+
+	</item>
+
+<item>	  
+	    <title>Clinging to the Concept of Self and Other (Link #90)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary> Dungse-la contemplates how building an identity around an object changes the value of our experience thereby leading to a loss of appreciation, joy and contentment for what is.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_10_09_LINK90_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_10_09_LINK90_DJN.mp3</guid> 
+      <pubDate>Sun, 09 Oct 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 39:40</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Clinging to the Concept of Self and Other</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Enter The Circle of Dogs (Link #91)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary> Elizabeth explores a profound Kadampa teaching that exposes the pain experienced by the ego when grasping or clinging to one's identity, and the freedom and confidence that can arise from realizing there is no truth to identity. She explains the difference between the humility that comes from a falling away of the ego versus the "ego of low self esteem". </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_10_16_LINK91_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_10_16_LINK91_EMN.mp3</guid> 
+      <pubDate>Sun, 16 Oct 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 1:23:53</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Enter The Circle of Dogs</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Modern Day Bodhisattva (MDB) Training- Introduction (Link #92)</title>
+      <itunes:author>Khenchung Bob Reid</itunes:author>
+      <itunes:subtitle>Khenchung Bob Reid from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary> Bob explains the two objectives or guiding principles for MSB's inaugural six-week course- "Modern Day Bodhisattva (MDB) Training" beginning 11/7/11. These are (1) developing self reflection- cultivating the inner life and (2) developing a good heart-the effects of training the mind in altruism.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_10_23_LINK92_KBR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_10_23_LINK92_KBR.mp3</guid> 
+      <pubDate>Sun, 23 Oct 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 59:55</itunes:duration>
+      <itunes:keywords>Bob Reid, Modern Day Bodhisattva (MDB) Training- Introduction</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Don't Make Yourself Small- Become the Trutral" (Link #93)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, pre-recorded at 2011 Shedra, Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary> Rinpoche discusses the predisposition of humans to make themselves small and reveals the truth of becoming the trutral itself.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_10_30_LINK93_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_10_30_LINK93_KBR.mp3</guid> 
+      <pubDate>Sun, 30 Oct 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 59:55</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Become The Trutral</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>It's Such A Nuisance To Be Attached (Link #94)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary> Rinpoche discusses how attachment makes us wobbly and weaker on the path, having no solid footing and diminished self esteem. He discusses how to relate to attachment through self reflection, the courage of letting go and the power of intention.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_11_06_LINK94_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_11_06_LINK94_DKR.mp3</guid> 
+      <pubDate>Sun, 06 Nov 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 55:11</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, It's Such A Nuisance To Be Attached</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Bodhicitta As A Bridge (Link #95)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, Boulder, Colorado</itunes:subtitle>
+      <itunes:summary> Dungse-la underscores the importance of openness and trust as the link to the larger self, and in opening to the larger self how bodhicitta serves as both the vehicle (to enlightenment) and the bridge (counters the small self and negative habits). </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_11_13_LINK95_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_11_13_LINK95_DJN.mp3</guid> 
+      <pubDate>Sun, 13 Nov 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 31:45</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Bodhicitta As A Bridge</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Light Comes Through-The Power of Accumulating Merit (Link #96)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, Crestone, Colorado</itunes:subtitle>
+      <itunes:summary> Elizabeth explores the way to develop confidence in our basic nature as our "resting place" and how cultivating merit is the key to find the cracks in the system in order to let the light come through. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_11_20_LINK96_EMN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_11_20_LINK96_EMN.mp3</guid> 
+      <pubDate>Sun, 20 Nov 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 1:17:23</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Light Comes Through, Accumulating Merit</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Arrogance (Link #97)</title>
+      <itunes:author>Nicholas Carter</itunes:author>
+      <itunes:subtitle>Nicholas Carter, Crestone, Colorado</itunes:subtitle>
+      <itunes:summary> Nicholas explores arrogance. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_11_27_LINK97_NC.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_11_27_LINK97_NC.mp3</guid> 
+      <pubDate>Sun, 27 Nov 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 1:04:03</itunes:duration>
+      <itunes:keywords>Nicholas Carter, Arrogance</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Sustained From Within: Faith, Surrender and Acknowledgment (Link #98)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, Crestone, Colorado,(previously recorded on April 9, 2006)</itunes:subtitle>
+      <itunes:summary> In this pre-recorded talk (4/9/2006) given at Samten Ling, Rinpoche offers three remedies for shakiness that can stem from a lack of confidence or faith in one's practice. He explains how these remedies, Faith, Surrender and Acknowledgment and the relative practice of devotion (mugu) can ultimately lead to absolute realization. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_12_04_Legacy_LINK98_DKR.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_12_04_Legacy_LINK98_DKR.mp3</guid> 
+      <pubDate>Sun, 04 Dec 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 56:46</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Devotion, Mugu, Faith, Surrender, Acknowledgment</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Bodhicitta is in the Details (Link #99)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, Bir, India</itunes:subtitle>
+      <itunes:summary> Dungse-la reflects on aspiration and engagement bodhicitta and its expression on a personal level in our thoughts and actions and on a larger scale within societies and cultures. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_12_11_LINK99_DJN.mp3" length="67689324" type="audio/mpeg" />
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_12_11_LINK99_DJN.mp3</guid> 
+      <pubDate>Sun, 11 Dec 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 49:31</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Bodhicitta, Engagement, Aspiration</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Merging Systems, Responding to the Suffering in the World (Link #100)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, Crestone, Colorado</itunes:subtitle>
+      <itunes:summary> Elizabeth discusses our relationship with our world and the activity of awareness, especially when relating to suffering. She describes how to be in relationship with everything in our world with dynamic systems merging. "The more we include the freer we become". </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2011_12_18_LINK100_EMN.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2011_12_18_LINK100_EMN.mp3</guid> 
+      <pubDate>Sun, 18 Dec 2011 10:00:00 MST</pubDate>
+      <itunes:duration> 1:19:32</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Relationships, Interdependence, Emptiness, Suffering, Bearing Witness</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>New Year's Day Address (Link #101)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, Bir, India</itunes:subtitle>
+      <itunes:summary> Rinpoche talks about spiritual growth for the new year and describes how to relate to the "anxiety of change" in our life. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_01_01_LINK101_DKR.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_01_01_LINK101_DKR.mp3</guid> 
+      <pubDate>Sun, 01 Jan 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 40:23</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, New Year Address 2012, Relating to Change</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Devotion and Distraction (Link #102)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, Bir, India</itunes:subtitle>
+      <itunes:summary> Dungse-la discusses the key trait of devotion as being a person who pursues their purpose with single-minded focus without distraction. He uses the 2012 Kalachakra gathering in Bodhgaya as an example of devotion and describes the relationship between devotion and distraction. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_01_08_LINK102_DJN.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_01_08_LINK102_DJN.mp3</guid> 
+      <pubDate>Sun, 08 Jan 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 50:44</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Devotion, Distraction</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Intimacy and Non-Separation (Link #103)</title>
+      <itunes:author>Chris Riggert</itunes:author>
+      <itunes:subtitle>Chris Riggert, Pema Osel Do Ngak Choling, VT</itunes:subtitle>
+      <itunes:summary> Chris discusses how feeling of separate from others is the same as a lack of intimacy with, or feeling separate from, the Self. He describes the practice of bearing witness as an example of intimacy and non-separation, and gives examples that illustrate how we handle others is really how we handle ourselves. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_01_15_LINK103_CR.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_01_15_LINK103_CR.mp3</guid> 
+      <pubDate>Sun, 15 Jan 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 54:31</itunes:duration>
+      <itunes:keywords>Chris Riggert, Self Intimacy, Non-Separation, Oneness</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Future of Buddhism in the West: Looking Deep (Link #104)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>Elizabeth shares her inquiry into what is special about the Dharma and what we want to carry forward. This led her back to the Buddha's teachings of The Middle Way and "the practice of resting in open inquiry", "looking deeply at what's timeless and placeless" and "entering the Hall of Doubt". </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_01_22_LINK104_EMN.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_01_22_LINK104_EMN.mp3</guid> 
+      <pubDate>Sun, 22 Jan 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:28:48</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Buddhism in the West, Middle Way, Openness, State of Inquiry</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Dunzhi and Distraction (Link #105)</title>
+      <itunes:author>Mark Smith</itunes:author>
+      <itunes:subtitle>Mark Smith, Ward, Colorado</itunes:subtitle>
+      <itunes:summary>Mark reminds us of Dunzhi, or the seemingly important "little things" that proliferate to fill our lives and take us away from the upayas given to us by our teachers, distract us from practice and take us away from fulfilling our deepest aspirations. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_01_29_LINK105_MS.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_01_29_LINK105_MS.mp3</guid> 
+      <pubDate>Sun, 29 Jan 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:11:25</itunes:duration>
+      <itunes:keywords>Mark Smith, Dunzhi, Distraction, Choice</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Transforming the Root (Link #106)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche- Legacy Series</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, pre-recorded July 2003</itunes:subtitle>
+      <itunes:summary>This is the first in a three part series of pre-recorded talks on Chopa, a Tibetan term generally defined as "a practitioner", but more specifically defined as a practitioner who has transformed their mind by working with self-clinging. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_02_05_LINK106_CHOPA1.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_02_05_LINK106_CHOPA1.mp3</guid> 
+      <pubDate>Sun, 05 Feb 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:05</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Chopa, Transforming the Root</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Strength of Intention (Link #107)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche- Legacy Series</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, pre-recorded July 2003</itunes:subtitle>
+      <itunes:summary>This is the second in a three part series of pre-recorded talks on Chopa, a Tibetan term generally defined as "a practitioner", but more specifically defined as a practitioner who has transformed their mind by working with self-clinging. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_02_12_LINK107_CHOPA2.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_02_12_LINK107_CHOPA2.mp3</guid> 
+      <pubDate>Sun, 12 Feb 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:05</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Chopa, Strength of Intention</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Staying on the Peak (Link #108)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche- Legacy Series</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, pre-recorded July 2003</itunes:subtitle>
+      <itunes:summary>This is the third and final in a three part series of pre-recorded talks on Chopa, a Tibetan term generally defined as "a practitioner", but more specifically defined as a practitioner who has transformed their mind by working with self-clinging. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_02_19_LINK108_CHOPA3.mp3" length="67689324" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_02_19_LINK108_CHOPA3.mp3</guid> 
+      <pubDate>Sun, 19 Feb 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:05</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Chopa, Staying on the Peak</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Losar Address- Year of the Water Dragon (Link #109)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Phuntsok Choling, 26 Feb, 2012</itunes:subtitle>
+      <itunes:summary>As the new year is upon us, Rinpoche encourages us to become vigorous in taking opportunities to serve others, grow the sense of care within ourselves and in the process drop our self attachments: "Offer yourself in any way to serve others and take that as your spiritual path". </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_02_26_LINK109_DKR.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_02_26_LINK109_DKR.mp3</guid> 
+      <pubDate>Sun, 26 Feb 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 57:17</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Losar Address 2012</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Clear Aspect of Compassion (Link #110)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Bir India given on November 29, 2011, aired March 4, 2012</itunes:subtitle>
+      <itunes:summary>Rinpoche gave this talk to students of the Guna Institute in November 2011. He describes how the "clear state of compassion" is focused internally on how we, as senient beings, suffer from self-clinging and then having the integrity to work against it. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_03_04_LINK110_DKRL.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_03_04_LINK110_DKRL.mp3</guid> 
+      <pubDate>Sun, 04 Mar 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 37:20</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Clear Compassion, Self-Clinging, Chopa</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>A Mathematical Aspiration (Link #111)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Bir India given on December 14, 2011, aired March 11, 2012</itunes:subtitle>
+      <itunes:summary>Rinpoche gave this talk to students of the Guna Institute on December 14, 2011. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_03_11_LINK111_DKRL.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_03_11_LINK111_DKRL.mp3</guid> 
+      <pubDate>Sun, 11 Mar 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 55:14</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Mathematical Aspiration, Bir</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>True Renunciation (Link #112)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Bodhgaya, India </itunes:subtitle>
+      <itunes:summary>Dungse-la contemplates the meaning of true renunciation of samsara while in Bodhgaya, India. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_03_18_LINK112_DJN.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_03_18_LINK112_DJN.mp3</guid> 
+      <pubDate>Sun, 18 Mar 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 32:21</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Renunciation</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Appreciation (Link #113)</title>
+      <itunes:author>Stephanie Kindberg</itunes:author>
+      <itunes:subtitle>Stephanie Kindberg, from Bir, India </itunes:subtitle>
+      <itunes:summary>Stephanie offers tips to generate appreciation in daily life including the importance of self-reflection, allowing space in our minds, contemplating our precious human births and impermanence. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_03_25_LINK113_SK.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_03_25_LINK113_SK.mp3</guid> 
+      <pubDate>Sun, 25 Mar 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 47:13</itunes:duration>
+      <itunes:keywords>Stephanie Kindberg, Appreciation</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Appreciation (Link #114)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Bir, India </itunes:subtitle>
+      <itunes:summary>Inspired by the previous week's contemplations on appreciation, Dungse-la expands on the importance of appreciation throughout one's journey on the path. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_04_01_LINK114_DJN.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_04_01_LINK114_DJN.mp3</guid> 
+      <pubDate>Sun, 01 Apr 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 43:26</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Appreciation</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Softening The Heart, Awakening The Mind (Link #115)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, a pre-recorded talk given in 2011 at Nalanda West, Seattle, Washington </itunes:subtitle>
+      <itunes:summary>Aired a pre-recorded talk given by Dzigar Kongtrul Rinpoche at Nalanda West in Seattle Washington in 2011. This talk is available for purchase on the MSB Webstore for $35. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_04_08_LINK115_DKRL.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_04_08_LINK115_DKRL.mp3</guid> 
+      <pubDate>Sun, 08 Apr 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 55:00</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Softening The Heart, Awakening The Mind</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Reflections on The Teachings (Link #116)</title>
+      <itunes:author>Andrew Shakespeare</itunes:author>
+      <itunes:subtitle>Andrew Shakespeare, from Phuntsok Choling, Ward, Colorado </itunes:subtitle>
+      <itunes:summary>Andrew recollects various teachings he has received over the years as student of Mangala Shri Bhuti, sharing with us his experiences on topics such as individual liberation, stupidity, laziness, buddha nature and aspiration bodicitta. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_04_15_LINK116_AS.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_04_15_LINK116_AS.mp3</guid> 
+      <pubDate>Sun, 15 Apr 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 47:44</itunes:duration>
+      <itunes:keywords>Andrew Shakespeare, Reflections, Liberation, Buddha Nature, Aspiration Bodhicitta</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Sangha: Servants of Wakefulness (Link #117)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Sarasota, Florida </itunes:subtitle>
+      <itunes:summary>Elizabeth gives her final talk in a four-part series on taking refuge, the Buddha, Dharma and Sangha to a group of aspiring students in Florida. In this talk, Elizabeth defines Sangha as a vehicle that teaches us who we really are and serves as a support for us to find our resting place.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_04_22_LINK117_EMN.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_04_22_LINK117_EMN.mp3</guid> 
+      <pubDate>Sun, 22 Apr 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:56:16</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Sangha, Community, Interdependence</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Cultivating Practice (Link #118)</title>
+      <itunes:author>Suzy Greanias</itunes:author>
+      <itunes:subtitle>Suzy Greanias, from Crestone, Colorado </itunes:subtitle>
+      <itunes:summary>Suzy talks about two levels to effectively cultivate practice: Taking the time and having a balanced approach to all levels of study and practice. She describes in detail each level and suggests in doing so, we make a "revolutionary commitment to ourselves".  .</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_04_29_LINK118_SG.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_04_29_LINK118_SG.mp3</guid> 
+      <pubDate>Sun, 29 Apr 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 57:35</itunes:duration>
+      <itunes:keywords>Suzy Greanias, Practice, Meditative Stability, Study and Practice</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Creating a Simplified Life (Link #119)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Bir, India </itunes:subtitle>
+      <itunes:summary>Rinpoche reminds us to make the best of our time now so we will not have any regrets at the end of our life. He describes the merit and beauty of a simplified life and instructs us on the ways to remain resilient and resolute in our commitment to practice the dharma.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_05_06_LINK119_DKR.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_05_06_LINK119_DKR.mp3</guid> 
+      <pubDate>Sun, 06 May 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 51:00</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, Simplify, Renunciation, Distraction</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Zeal in Practice (Link #120)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Bir, India </itunes:subtitle>
+      <itunes:summary>Dungse-la talks about taking challenging times onto the path, yet at the same time not taking ego onto the path, say, by being hard on onesself.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_05_13_LINK120_DJN.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_05_13_LINK120_DJN.mp3</guid> 
+      <pubDate>Sun, 13 May 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:00:22</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Zeal in Practice</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Power of Imagination (Link #121)</title>
+      <itunes:author>Elizabeth Mattis Namgyel</itunes:author>
+      <itunes:subtitle>Elizabeth Mattis Namgyel, from Vershire, Vermont</itunes:subtitle>
+      <itunes:summary>Elizabeth explains how imagination is used in Buddhist practice starting in the mahayana and as skillful means in the Vajrayana. Elizabeth shares stories that illustrate how thoughts are imaginary and how we can use imagination to generate bodhicitta.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_05_20_LINK121_EMN.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_05_20_LINK121_EMN.mp3</guid> 
+      <pubDate>Sun, 20 May 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:04:31</itunes:duration>
+      <itunes:keywords>Elizabeth Mattis Namgyel, Imagination, Thoughts, Labels</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Ego of Identity (Link #122)</title>
+      <itunes:author>Bill Roberts</itunes:author>
+      <itunes:subtitle>Bill Roberts, from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>Bill shares his personal self reflections in looking closely at how ego operates in his life.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_05_27_LINK122_BR.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_05_27_LINK122_BR.mp3</guid> 
+      <pubDate>Sun, 27 May 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 58:44</itunes:duration>
+      <itunes:keywords>Bill Roberts, Ego, Practice, Self Reflection</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>In Times of Uncertainty (Link #123)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>Dungse-la describes the wisdom in "not knowing" when the path ahead seems unclear and underscores the importance of engaging in altruistic activities. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_06_03_LINK123_DJN.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_06_03_LINK123_DJN.mp3</guid> 
+      <pubDate>Sun, 03 June 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 49:20</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Uncertainty, Altruism</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Definition of a Modern Day Bodhisattva (Link #124)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary>Rinpoche describes in detail how one can achieve true happiness, independent of external circumstances, by cultivating a genuinely altruistic heart.</itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_06_10_LINK124_DKR.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_06_10_LINK124_DKR.mp3</guid> 
+      <pubDate>Sun, 10 June 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:25:22</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul, Bodhisattva, Altruism, Tolerance</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Human- All Too Human (Link #125)</title>
+      <itunes:author>Joey Waxman</itunes:author>
+      <itunes:subtitle>Joey Waxman from Pema Osel Do Ngak Choling, Vershire, Vermont</itunes:subtitle>
+      <itunes:summary>Joey talks about obstacles that can arise on the path, specifically feeling bad about ones self and the freedom that tolerance can bring when extending this to ourselves and others. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_06_17_LINK125_JW.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_06_17_LINK125_JW.mp3</guid> 
+      <pubDate>Sun, 17 June 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 50:19</itunes:duration>
+      <itunes:keywords>Joey Waxman, Obstacles on the Path</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>The Four Thoughts (Link #126)</title>
+      <itunes:author>Moni Banerjee</itunes:author>
+      <itunes:subtitle>Moni Banerjee, from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary>Moni recounts her experiences in the Peace Corps which underscored for her the importance of the four thoughts that turn one's mind to the Dharma: Karma, Suffering, Impermanence and Death, and Precious Human Birth. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_06_24_LINK126_MB.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_06_24_LINK126_MB.mp3</guid> 
+      <pubDate>Sun, 24 June 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 43:10</itunes:duration>
+      <itunes:keywords>Moni Banerjee, 4 Truths</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Doing Some Work Together as Teacher and Student (Link #127)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary>This is a pre-recorded talk given by Dzigar Kongtrul Rinpoche on the opening day of the 2008 Nyingma Summer Seminar. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_07_01_LINK127_DKRL.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_07_01_LINK127_DKRL.mp3</guid> 
+      <pubDate>Sun, 01 July 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:00:07</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul, Teacher, Student, 2008 Nyingma</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>2012 Nyingma Summer Seminar Live Talk (Link #128)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu, from Phuntsok Choling, Ward, Colorado </itunes:subtitle>
+      <itunes:summary>This LINK was a live broadcast of a Hinayana talk given by Dungse Jampal Norbu at the 2012 Nyingma Summer Seminar. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_07_08_LINK128_DKRL.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_07_08_LINK128_DKRL.mp3</guid> 
+      <pubDate>Sun, 08 July 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:35:03</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, NSS 2012</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Merit and Non-Merit (Link #129)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, NSS 2008 </itunes:subtitle>
+      <itunes:summary> A Mahayana talk given by Dzigar Kongtrul Rinpoche, pre-recorded from the 2008 Nyingma Summer Seminar. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_07_15_LINK129_DKRL.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_07_15_LINK129_DKRL.mp3</guid> 
+      <pubDate>Sun, 15 July 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:12:00</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul, Merit, Non-Merit</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Going Beyond Our Comfort Zone (Link #130)</title>
+      <itunes:author>Stephanie Kindberg</itunes:author>
+      <itunes:subtitle>Stephanie Kindberg, from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary>MSB student Stephanie Kindberg discusses how we can go beyond our comfort zone and challenge our "small self" by being vulnerable. She underscores how doing so is the only way we can change and grow. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_07_22_LINK130_SKV.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_07_22_LINK130_SKV.mp3</guid> 
+      <pubDate>Sun, 22 July 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 48:85</itunes:duration>
+      <itunes:keywords>Stephanie Kindberg, Small Self, Comfort, Change</itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Latent and Manifest Potential (Link #131)</title>
+      <itunes:author>Chris Holland</itunes:author>
+      <itunes:subtitle>Chris Holland, from Osel Ling, Crestone, Colorado</itunes:subtitle>
+      <itunes:summary>MSB student Chris Holland contemplates the essence and intention of all the Buddhas and all enlightenied teachers which is the self discovery of the "one thing that frees all things"- our own infinite wakefulness and love which is the very essence of our present mind. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_07_29_LINK131_CH.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_07_29_LINK131_CH.mp3</guid> 
+      <pubDate>Sun, 29 July 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:10:10</itunes:duration>
+      <itunes:keywords>Chris Holland, Potential, </itunes:keywords>
+	  
+	</item>
+
+<item>	  
+	    <title>Aspire Beyond The Bubble of Wrong Means (Link #132)</title>
+      <itunes:author>Dzigar Kongtrul Rinpoche</itunes:author>
+      <itunes:subtitle>Dzigar Kongtrul Rinpoche, from Bir, India</itunes:subtitle>
+      <itunes:summary>This is a pre-recorded talk given by Rinpoche in January 2012 at Guna Instituite in Bir, India.  </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_08_05_LINK132_DKRL.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_08_05_LINK132_DKRL.mp3</guid> 
+      <pubDate>Sun, 05 August 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 55:35</itunes:duration>
+      <itunes:keywords>Dzigar Kongtrul Rinpoche, </itunes:keywords>
+	  
+	</item>
+
+item>	  
+	    <title>Appreciation (Link #133)</title>
+      <itunes:author>Dungse Jampal Norbu</itunes:author>
+      <itunes:subtitle>Dungse Jampal Norbu from Phuntsok Choling, Ward, Colorado</itunes:subtitle>
+      <itunes:summary>Dungsela examines appreciation and suggests that a deep unbderstanding of interdependence is key for true appreciation to arise for our lives and our world. "Understanding, Acknowledgement and Value". </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_08_12_LINK133_DJN.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_08_12_LINK133_DJN.mp3</guid> 
+      <pubDate>Sun, 12 August 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 51:32</itunes:duration>
+      <itunes:keywords>Dungse Jampal Norbu, Appreciation, Interdependence, Humility </itunes:keywords>
+	  
+	</item>
+
+item>	  
+	    <title>Waiting Things Out (Link #134)</title>
+      <itunes:author>Padhrig McCarthy</itunes:author>
+      <itunes:subtitle>Padhrig McCarthy from Pema Osel Do Ngak Choling, Vershire, VT</itunes:subtitle>
+      <itunes:summary>MSB student Paddy McCarthy talks about the technique of waiting things out to avoid regrets of acting when in the grips of emotion. He compares this to tolerance and describes the difference between the two techniques. </itunes:summary>
+      <enclosure url="http://mangalashribhuti.geekpak.com/link/archive/2012_08_19_LINK134_PTM.mp3" length="299948402" type="audio/mpeg" />.
+      <guid>http://mangalashribhuti.geekpak.com/link/archive/2012_08_19_LINK134_PTM.mp3</guid> 
+      <pubDate>Sun, 19 August 2012 10:00:00 MST</pubDate>
+      <itunes:duration> 1:00:07</itunes:duration>
+      <itunes:keywords>Padhrig McCarthy, Emotion, Tolerance, Avoidance</itunes:keywords>
+	  
+	</item>
+
+</channel>
+  </rss>

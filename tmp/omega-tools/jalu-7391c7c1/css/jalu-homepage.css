@@ -1,0 +1,250 @@
+/* ----------- shared styles for Below Content & Postscript Zone ---------------------- */
+
+#zone-belowcontent,
+#zone-postscript {
+	font: 12px 'Century Gothic', sans-serif; 
+	letter-spacing:1px;
+	color: #6a6256;
+}
+/* ----------- styles for Below Content Zone ---------------------- */				
+
+#zone-belowcontent h2.block-title {
+	font: normal 16px 'Century Gothic', sans-serif; 
+	letter-spacing:1px;
+	text-align: center;	
+	color: #fff;
+	padding: 5px;
+	background-color: #a39784;
+}
+
+#region-content-bottom-first h2.block-title {
+	background-color: #a39784; /* lighter brown bg */	
+}
+#region-content-bottom-first h2.block-title a, #region-content-bottom-second h2.block-title a{ color:#FFF; display: block;} 
+#region-content-bottom-first h2.block-title a:hover, #region-content-bottom-second h2.block-title a:hover{ color: #d25036} 
+
+#region-content-bottom-first .view-news-page {
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 5px;	
+	padding-bottom: 5px;
+}
+#region-content-bottom-second h2.block-title {
+	background-color: #a39784; /* lighter brown bg */
+	margin-left: -20px;
+	margin-right: -20px;
+}
+#region-content-bottom-third h2.block-title {
+	background-color: #a39784; /* lighter brown bg */
+}
+#region-content-bottom-first-alt h2.block-title {
+	background-color: #a39784; /* lighter brown bg */
+}
+#region-content-bottom-second-alt h2.block-title {
+	background-color: #a39784; /* lighter brown bg */	
+}
+#region-content-bottom-third-alt h2.block-title {
+	background-color: #a39784; /* lighter brown bg */
+}
+#region-content-bottom-fourth h2.block-title {
+	background-color: #a39784; /* lighter brown bg */
+}
+#zone-belowcontent-wrapper .region-inner{ padding-bottom:15px}
+#zone-belowcontent a:link	{ color: #064240; text-decoration:none; }
+#zone-belowcontent a:visited{ color: #064240; text-decoration:none; }
+#zone-belowcontent a:hover 	{ color:#d25036; text-decoration: none; }
+#zone-belowcontent a:active	{ color: #064240; text-decoration:none; }
+.newsHPblock { margin-top:5px} 
+.newsHPblock .views-field-field-news-teaser-image { float: left; margin: 2px 15px 0 0; }
+
+
+.newsHPblock span.date-display-single {
+    font-weight: bold;
+}
+.newsHPblock .views-row { margin-bottom: 15px; clear:both }
+.newsHPblock .views-field-title {font-size: 14px;  margin-bottom: 10px;}
+.newsHPblock .views-field-field-post-date-1 {font-weight: bold;}
+
+/* ----------- styles for Events block ---------------------- */	
+
+.view-events-homepage { padding-left: 20px; padding-top: 15px;}
+.view-events-homepage .views-row {margin-bottom: 15px;}
+.view-events-homepage .views-field-field-startdate {font-weight: bold;}
+#zone-belowcontent #region-content-bottom-second .views-field-field-city {
+	float: left; 
+	padding-right: 5px;
+/*	padding-left: 10px;*/
+}   
+#zone-belowcontent #region-content-bottom-second .views-field-field-state {
+	float: left; 
+	padding-right: 5px;
+}
+#zone-belowcontent #region-content-bottom-second .views-field-title a {
+	font-size: 14px;
+	line-height: 1.5pt;
+} 
+
+#region-content-bottom-second .event-style { color: #6a6256; /* HP greyish plain text */ }
+#region-content-bottom-second .event-style .views-field-field-startdate { font-weight: bold; color: #6a6256 !important }
+#region-content-bottom-second .event-style {letter-spacing: 1px; margin-top: -5px;}
+#region-content-bottom-second .event-style .views-field-title a { font: normal 14px 'Century Gothic', sans-serif; text-decoration: none; color: #064240; /*  dark green text */}
+#region-content-bottom-second .event-style .views-field-title a:hover,
+#region-content-bottom-second .event-style .views-field-field-msb-teacher a:hover { text-decoration: none; color:#d25036;}
+
+/* ----------- styles for Students block ---------------------- */	
+
+#studentInfo {margin-top: 10px;}
+#studentInfo p {
+	font: normal 14px 'Century Gothic', sans-serif; 
+	letter-spacing:1px;
+	color: #6a6256; /* HP greyish plain text */ 
+}
+.userLogin {
+	width: 175px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 15px;
+	background: #afbb98; /* leftnav green */
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+/*	border-radius: 15px; */
+}
+
+/* ----------- styles for PostScript Zone ---------------------- */	
+
+#zone-postscript h2.block-title                              {
+	font: normal 16px 'Century Gothic', sans-serif; 
+	letter-spacing:1px;
+	text-align: center;	
+	color: #fff;
+	padding: 5px;
+	background-color: #d25036;
+}
+
+#zone-postcript-wrapper {
+	background-color: #dfdfc3;
+}
+
+.postscript-outer-wrapper { 
+   background-color: #dfdfc3; 
+}
+
+#region-postscript-first {
+	background-color: #afbb98;
+}
+
+#region-postscript-third {
+	background-color: #afbb98; 
+}
+
+#region-content-bottom-first h2.block-title {
+	background-color: #a39784; /* darker brown bg */	
+} 
+
+#region-postscript-first, 
+#region-postscript-second
+#region-postscript-third {
+	padding-bottom: 20px; 
+}
+
+.contentBottomText {
+	margin-left: 20px;	
+	margin-right: 10px;
+	margin-top: 15px;	
+	margin-bottom: 15px;
+	color: #fff;
+	font: 14px;	
+	letter-spacing:1px;
+}
+
+.contentBottomText a:link		{ color: #fff; text-decoration:none; }
+.contentBottomText a:visited	{ color: #fff; text-decoration:none; }
+.contentBottomText a:hover 	{ color:#064240; text-decoration: none; }
+.contentBottomText a:active	{ color: #fff; text-decoration:none; }
+
+#zone-postscript a { font: normal 14px 'Century Gothic', sans-serif; text-decoration: none; color: #064240; /*  dark green text */}
+#zone-postscript a:hover { text-decoration: none; color:#fff;}
+
+/* ----------- styles for homepage twitter feed ---------------------- */
+
+.twitter_container {
+	background-color: #62816f;
+	opacity:0.9;
+	filter:alpha(opacity=90); /* For IE8 and earlier */	
+
+	padding-top: 20px;	
+	padding-bottom: 15px;
+	padding-left: 5px;
+	padding-right: 10px;						
+	font-family: 'Century Gothic', sans-serif;
+	letter-spacing:1px; 
+    font-size: 14px;
+    font-weight: normal;
+    color: #fff;
+    line-height: 1.2em;
+
+	z-index: 10;
+	
+
+	
+}
+
+.twitter_horizontal {	
+	font-family: 'Century Gothic', sans-serif; 
+	letter-spacing:1px;	
+    font-size: 14px;
+    font-weight: normal;
+/*    color: #587969;	 sagey green */
+    color: #064240;	/* darker green */
+	position: absolute;
+	width: 500px;
+	margin-top: 370px;	
+	margin-left: -30px;
+	z-index: 10;
+	padding-bottom: 20px;
+}
+
+.twitter_container .field-content {
+	margin-top: 10px;	
+}
+.twitter_container .views_field_text {
+    font-family: 'Century Gothic', sans-serif; 
+	letter-spacing:1px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 1em;	
+}
+.twitter_container .views_field .views_field_created_time {
+    font-family: 'Century Gothic', sans-serif; 
+	letter-spacing:1px;
+    font-size: 14px;
+    font-style: normal;
+	color:#d25036;  /* orange */
+    line-height: 1em;	
+}
+/* ----------- styles for homepage bodhicitta aspiration tibetan script  ---------------------- */
+
+.tibetanScript {
+	/*position: absolute; */
+	z-index: 9;
+	margin-top: -110px;
+	margin-left: 10px;
+}
+.BAorangeDiagHoriz {
+	/*position: absolute; */
+	z-index: 9;
+	margin-top: -45px;
+	margin-left: 380px;
+}
+.BAwhiteDiagHoriz {
+	/*position: absolute; */
+	z-index: 9;
+	margin-top: -110px;
+	margin-left: 10px;
+}
+/* ----------- styles for homepage mailchimp text  ---------------------- */
+
+#region-content-bottom-third #edit-mailchimp-lists-mailchimp-msb-mailing-list-title .form-type-item { font: 14px/18px; color:#d25036; /* orange */}
+#region-content-bottom-third #edit-mailchimp-lists-mailchimp-msb-mailing-list-title .description { font: 12px/14px; color: #6a6256; /* dark grey */}

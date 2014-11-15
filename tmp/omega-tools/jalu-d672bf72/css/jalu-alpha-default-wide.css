@@ -1,0 +1,83 @@
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+.sf-menu.sf-style-coral li {
+	font-size: 16px;
+	letter-spacing: 2px;
+}
+#block-views-msb-block-1 .views-row {
+	float: left;
+	width: 25%
+}
+.twitter_container {
+	margin-left: 545px;
+	margin-top: 50px;
+	width: 150px;
+	position: absolute;
+}
+#region-branding .mainlogo .logoimg {
+	padding-left: 70px
+}
+.front #region-branding .mainlogo .logoimg {
+	padding-left: 80px
+}
+#region-branding .mainlogo .sitename {
+	padding-left: 75px
+}
+#zone-menu .block-search {
+	margin-top: 6px;
+	position: relative;
+	margin-right: 15px
+}
+#block-block-43 .content span {
+	line-height: 43px;
+}
+#block-block-43 .content span.a, #block-block-43 .content span.b {
+	display: inline
+}
+/*Front*/
+
+.front #region-branding .mainlogo .sitename {
+	padding-left: 90px
+}
+.sf-menu.sf-style-coral li a {
+	padding: 0.75em 1em;
+}
+/* ----------- styles for homepage slideshow ---------------------- */
+.view-slideshow {
+	width: 660px !important
+}
+#views_slideshow_cycle_main_clone_of_homepage_slider-block {
+	margin-left: 50px;
+}
+.view-slideshow {
+	margin-left: -108px;
+}
+.view-slideshow .field-content {
+	margin-left: -36px;
+}
+.view-slideshow .views-content-counter {
+	background-color: #a39784;
+	border-radius: 5px 5px 5px 5px;
+	float: left;
+	height: 10px;
+	width: 10px;
+	margin-top: -10px;
+	margin-right: 5px;
+	text-indent: -9999px;
+	cursor: pointer;
+}
+.view-slideshow .active .views-content-counter {
+	background-color: #ba6d4a;
+}
+.view-slideshow .views-slideshow-pager-field-item {
+	width: 40px;
+	height: 40px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	float: left;
+}
+.view-slideshow .views-field-field-caption {
+	padding-left: 85px;
+}
+.view-slideshow .views-slideshow-controls-bottom {
+	margin-top: -300px;
+}

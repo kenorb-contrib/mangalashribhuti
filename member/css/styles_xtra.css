@@ -1,0 +1,120 @@
+/* CSS Document */
+
+/*   ------    GLOBAL    --------  */
+
+#masthead {
+	position: absolute;
+	background-color: #E6E4CF;
+	margin: 0px;
+	width: 900px;
+}
+
+#wrapper {
+	position: absolute;
+	background-color: #B5BA84;
+	margin: 0px;
+	top: 120px;
+	left: 0px;	
+	width: 900px;
+	border-color: 1px dotted black;
+	vertical-align: top;
+	bottom: 0px;
+    min-height:100%;	
+}
+
+.header {
+	margin-top: 0px;	
+	left: 0px;	
+}
+
+#contentWrapper {
+	background-color: #E6E4CF;
+	position: absolute;
+    width: 680px;
+    top: 26px;
+    left: 220px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	/*border: 1px solid red;*/	
+	bottom: 0px;
+    min-height:100%;	
+}
+
+
+#leftnav
+{
+	margin-top: 10px;
+	width:220px;
+	text-align: left;
+	background-color: #B5BA84; 
+	float: left;
+	padding: 0;
+	/*border: 1px solid blue;*/	
+	bottom: 0px;
+    min-height:100%;		
+}
+
+.imgWrapLeft {
+	float: left;
+	padding: 12px 20px 12px 20px;
+}
+.imgWrapRight {
+	float: right;
+	padding: 12px 20px 12px 20px;
+}
+
+/*   ------    homepage    --------  */
+
+.HPwrapper {
+	position: absolute;
+	top: 96px;
+	left: 0px;
+	width: 959px;
+	height: 567px;
+	/*border: 1px solid red;*/
+	background: url(../images/home/hp_background.jpg) no-repeat;
+}
+
+.HPnav {
+	position:absolute;
+	top: 10px;
+	left: 0px;
+}
+	
+#topImages {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#QTvideo {
+	position: absolute;
+	top: 191px;
+	left: 300px;
+}
+
+#VDKRquote {
+	position:absolute;
+	top: 20px;
+	left: 529px;
+	width: 250px;
+	color: #FFFFFF;
+	font-size:15px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;	
+}
+
+#newsFeed {
+	position: absolute;
+	top: 425px;
+	left: 0px;
+	width: 510px;
+}
+
+#newsFeed a {
+	color:#FFFFFF;
+	}
+	
+#newsFeed a hover{
+	color:#FFFFFF;
+	text-decoration:underline;
+	}

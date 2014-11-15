@@ -1,0 +1,64 @@
+<style type="text/css">
+
+#twitter_t {
+   width: 345px;
+   height: 65px;
+   background-image:url("images/twitter/twitter_top.png");
+}
+
+#twitter_m {
+   width: 355px;
+   padding: 0 15px;
+   background:url("images/twitter/twitter_middle.png")  0 0 repeat-y;
+}
+
+   #twitter_container {
+       min-height:45px;
+       height:auto !important;
+       height:40px;
+       padding-bottom:10px;
+	   position:relative;
+	   left:-12px;
+	   top:-25px;
+   }
+
+       #twitter_update_list {
+           width: 345px;
+           padding: 0;
+           overflow: hidden;
+           font-family: Georgia;
+           font-size: 16px;
+           font-style:normal;
+           color: #D0C8B1;
+           line-height: 1.5em;
+           font-weight:bold;
+       }
+
+       #twitter_update_list li {
+           width: 345px;
+           list-style: none;
+		   font-size:18px;
+		  
+       }
+
+       #twitter_update_list li a {
+           color: #A3A96D;
+           border-bottom: dotted 1px;
+           text-decoration: none;
+		   font-size:12px;
+		   
+       }
+
+       #twitter_update_list li a:hover {
+           color: #31353d;
+           background: #d3f1f9;
+		    font-size:12px;
+       }
+
+#twitter_b {
+   width: 355px;
+   height: 35px;
+   background-image:url("images/twitter/twitter_bottom.png");
+}
+
+</style>

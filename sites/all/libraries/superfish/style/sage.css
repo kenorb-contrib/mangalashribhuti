@@ -1,0 +1,43 @@
+.sf-menu.sf-style-sage {
+  float: left;
+  margin-bottom: 15px;
+}
+.sf-menu.sf-style-sage a {
+/*  border: 1px outset #000000; */
+  color: #064240; /*  dark green text */
+  text-decoration: none;
+  white-space: nowrap;
+}
+.sf-menu.sf-style-sage li,
+.sf-menu.sf-style-sage li li,
+.sf-menu.sf-style-sage li li li,
+.sf-menu.sf-style-sage.sf-navbar {
+  color: #064240; /* dark green text */
+  font-family: verdana, arial, sans-serif;
+  font-size: 12px;  
+  white-space: nowrap;
+}
+.sf-menu.sf-style-sage li {
+  text-indent: 10px;
+  padding: 0.5em 1em;
+}
+.sf-menu.sf-style-sage li li,
+.sf-menu.sf-style-sage li ul, 
+.sf-menu.sf-style-sage li li li {
+  background: #afbb98; /* leftnav green bg */
+  text-indent: 0px;
+  padding: 0.5em .1em;
+}
+.sf-menu.sf-style-sage li ul {
+	left: 185px;
+	padding: 0;
+}
+.sf-menu.sf-style-sage li:hover,
+.sf-menu.sf-style-sage li.sfHover,
+.sf-menu.sf-style-sage li.active a,
+.sf-menu.sf-style-sage a:focus,
+.sf-menu.sf-style-sage a:hover,
+.sf-menu.sf-style-sage a:active,
+.sf-menu.sf-style-sage.sf-navbar li li {
+  color: #ffffff;
+}

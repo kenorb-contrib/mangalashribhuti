@@ -1,0 +1,258 @@
+/* Color Palette */
+/*
+	background-beige: #dfdfc3
+	grey-beige: #a39784
+	dark green: #064240
+	orange: #d25036
+	sage green: #afbb98
+	dark grey: #6a6256	
+*/
+
+/* alternative styles for alternative Jalu theme homepage */
+#region-branding {
+	background-color: #dfdfc3; /* yellow-beige */
+	height: 134px;
+	background: url(../images/MSBbanner134.jpg) center top;
+}
+
+#region-menu {
+	background-color: #d25036;
+}
+
+/* -------- content area height fix ------------- */
+.region-homepage-content-alt {
+	height: 530px;
+}
+
+
+/* ----------- styles for Right_sidebar_second Zone ---------------------- */	
+#region-sidebar-second h2.block-title {
+	background-color: #928e75; /* darker brown */	
+	font: normal 16px 'Century Gothic', sans-serif;
+	letter-spacing:1px;
+	text-align: center;	
+	color: #fff;
+	padding: 5px;
+}
+#block-block-26 .newsContent { /* content for news block */
+	font: normal 12px 'Century Gothic', sans-serif;
+	letter-spacing:1px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #fff;	
+}
+#block-block-26 .subText { /* content for news block */
+	font: normal 11px 'Century Gothic', sans-serif;
+	letter-spacing:1px;
+	color: #fff;	
+}
+#block-block-26 .welcomeMsg { /* content for news block */
+	font: normal 12px 'Century Gothic', sans-serif;
+	letter-spacing:1px;
+	line-height: 1.5em;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #fff;	
+}
+
+/* ----------- shared styles for Below Content & Postscript Zone ---------------------- */
+#zone-belowcontent h2.block-title,
+#zone-postscript h2.block-title {
+/*	border: 1px dotted green; */
+	font: normal 16px 'Century Gothic', sans-serif;
+	letter-spacing:1px;
+	text-align: center;	
+	color: #fff;
+	padding: 5px;
+	background-color: #a39784;
+}
+#zone-belowcontent,
+#zone-postscript {
+	font: 12px 'Century Gothic', sans-serif;
+	letter-spacing:1px;
+	color: #6a6256;
+}
+
+/* ----------- styles for Below Content Zone ---------------------- */				
+
+#zone-belowcontent .views-field-title {
+	padding-bottom: 10px;
+}
+
+#zone-belowcontent .views-field-field-homepage-news-teaser {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+#region-content-bottom-first h2.block-title {
+	background-color: #a39784; /* welcome - darker brown bg */	
+}
+#region-content-bottom-first .view-news-page {
+	padding-top: 15px;
+	padding-left: 25px;
+	padding-right: 25px;	
+	padding-bottom: 15px;
+}
+#region-content-bottom-second h2.block-title {
+	background-color: #a39784; /* news & events - lighter brown bg */
+	margin-left: -20px;
+	margin-right: -20px;
+}
+
+#region-content-bottom-first {
+	background-color: #afbb98;
+}
+
+#region-content-bottom-second {
+	background-color: #afbb98;
+}
+
+#region-content-bottom-third {
+	background-color: #afbb98;
+}
+
+#region-content-bottom-third h2.block-title {
+	background-color: #a39784; /* - grey-beige bg */
+}
+
+#zone-belowcontent a:link		{ color: #fff; text-decoration:none; }
+#zone-belowcontent a:visited	{ color: #fff; text-decoration:none; }
+#zone-belowcontent a:hover 	{ color:#064240; text-decoration:none; }
+#zone-belowcontent a:active	{ color: #fff; text-decoration:none; }
+
+#region-content-bottom-third-alt .subHeader {
+	font: 14px normal 'Century Gothic', sans-serif;	
+	letter-spacing:1px;
+	color: #9d4a4c;
+}
+
+.below-content-outer-wrapper { /* yellow-beige bg */
+  background-color: ##dfdfc3;
+}
+
+#region-content-bottom-third p {
+	text-align: center;
+}
+
+
+.contentBottomText {
+	margin-left: 20px;	
+	margin-right: 20px;
+	margin-top: 15px;	
+	margin-bottom: 15px;
+	color: #fff;	
+	font: 14px normal 'Century Gothic', sans-serif;	
+	letter-spacing:1px;
+}
+.contentBottomText a:link		{ color: #fff; text-decoration:none; }
+.contentBottomText a:visited	{ color: #fff; text-decoration:none; }
+.contentBottomText a:hover 	{ color:#064240; text-decoration: none; }
+.contentBottomText a:active	{ color: #fff; text-decoration:none; }
+
+/* ----------- styles for PostScript Zone ---------------------- */	
+
+#zone-postcript-wrapper {
+	background-color: #dfdfc3;
+}
+
+.postscript-outer-wrapper { 
+   background-color: #dfdfc3; 
+}
+
+#region-postscript-first {
+	background-color: #afbb98;
+}
+
+#region-postscript-third {
+	background-color: #afbb98; 
+}
+
+#region-content-bottom-first h2.block-title {
+	background-color: #a39784; /* darker brown bg */	
+}
+
+#region-postscript-first, 
+#region-postscript-second
+#region-postscript-third {
+	padding-bottom: 20px; 
+}
+
+/* ----------- styles for footer ---------------------- */
+#zone-footer {
+	font: 11px 'Century Gothic', sans-serif;
+	letter-spacing:1px;
+	line-height: 20px;
+}
+
+#zone-footer a:link		{ color: #fff; text-decoration:none; }
+#zone-footer a:visited	{ color: #fff; text-decoration:none; }
+#zone-footer a:hover 	{ color:#064240; text-decoration: none; }
+#zone-footer a:active	{ color: #fff; text-decoration:none; }
+
+.footer-outer-wrapper {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.region-footer-first-inner,
+.region-footer-second-inner,
+.region-footer-third-inner,
+.region-footer-fourth-inner,
+.region-footer-fifth-inner {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.region-footer-first-inner {
+	padding-left: 20px;
+}
+
+/* ----------- styles for homepage slideshow ---------------------- */
+
+.view-slideshow {
+	margin-left: -120px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding-bottom: 30px;
+	float: center;
+  	position: absolute;
+  	z-index: 3;	
+}
+
+.view-slideshow .views-content-counter {
+  background-color: #a39784;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+  height: 10px;
+  width: 10px;
+  margin-top: 10px;
+  margin-right: 5px;
+  text-indent: -9999px;
+  cursor: pointer;
+}
+
+.view-slideshow .active .views-content-counter {
+  background-color: #ba6d4a;
+}
+
+.view-slideshow .views-field-field-caption {
+	margin-top: -31px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #fff;
+	font-family: 'Century Gothic', sans-serif;
+	font-size: 15px;
+	background-color: #62816f;
+	opacity:0.8;
+	z-index: 11;
+}	
+
+/* ----------- styles for homepage Tibetan script ---------------------- */
+.tibetanScript {
+	position: absolute;
+	z-index: 9;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-bottom: 0;
+}

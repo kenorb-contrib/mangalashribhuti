@@ -1,0 +1,4 @@
+name = CKEditor settings override
+description = Makes CKEditor load a custom  config file via Wysiwyg module
+dependencies[] = wysiwyg
+core = 7.x

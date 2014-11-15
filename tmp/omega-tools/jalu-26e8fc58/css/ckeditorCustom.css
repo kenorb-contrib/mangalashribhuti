@@ -1,0 +1,83 @@
+/* general styles for overal text appearance in CKeditor WYSIWYG */
+
+#ckeditor_custom_id {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.ckeditor_custom_class,
+.ckeditor_custom_class p,
+.ckeditor_custom_class div {
+  font: normal 12px verdana, arial, sans-serif;
+}
+.floatLeft {
+	float: left;
+}
+.floatRight {
+	float: right;
+}
+.floatCenter {
+	float: center;
+}
+/* general styles for overal text appearance - site-wide */
+
+/* TEXT STYLES */
+
+h1 {
+  font: bold 24px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+  color: #587969;/*green */
+	letter-spacing: 1px;
+	margin-bottom: 15px; }
+
+h2 {
+  font: bold 21px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+  color: #6a6256; /*dark grey */
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+	padding-top: 15px; }
+
+h3 {
+  font: bold 19px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+  color: #6a6256; /*dark grey */
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+	padding-top: 15px; }
+
+h4 {
+  font: bold 17px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+  color: #6a6256; /*dark grey */
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+	padding-top: 15px; }
+
+p {
+  font: 14px/19px 'Helvetica', Arial, sans-serif;
+	color: #000000;
+	margin-bottom: 15px; }
+
+.quote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #74624c;
+	font: 14px/21px 'Helvetica', sans-serif; }
+
+.caption {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #6a6256; /*dark grey */
+	font: normal 10px 'Helvetica', Arial, sans-serif;
+}
+img.image_right {
+	float: right;
+	display: inline;
+	margin-left: 20px;
+	margin-bottom: 20px; }
+
+img.image_left{
+	float: left;
+	display: inline;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	 }
+
+
+/* OTHER STYLES (Michael) */

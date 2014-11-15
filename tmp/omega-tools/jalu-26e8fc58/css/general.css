@@ -1,0 +1,300 @@
+/* @override http://development.msbstore.org/sites/all/themes/jalu/css/general.css?mdc5z1 */
+
+/* general styles for overal text appearance - site-wide */
+
+/* TEXT STYLES */
+
+h1 {
+	font: bold 24px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	color: #587969;/*green */
+	letter-spacing: 1px;
+	margin-bottom: 15px; }
+
+h2 {
+	font: bold 18px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	color: #6a6256; /*dark grey */
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+ }
+ 
+h3 {
+	font: bold 19px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	color: #6a6256; /*dark grey */
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+ }
+
+h4 {
+	font: bold 17px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	color: #6a6256; /*dark grey */
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+ }
+
+p {
+	font: 14px/19px 'Helvetica', Arial, sans-serif;
+	color: #000000;
+	margin-bottom: 15px; }
+
+.quote {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #74624c;
+	font: 14px/21px 'Helvetica', sans-serif; }
+
+.caption {
+	margin-top: 5px;
+	margin-bottom: 15px;
+	color: #6a6256; /*dark grey */
+	font: normal 11px/15px 'Helvetica', Arial, sans-serif;
+}
+.image_right {
+	float: right;
+	display: inline;
+	margin-left: 20px;
+	margin-bottom: 20px; 
+}
+.image_left {
+	float: left;
+	display: inline;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+/* OTHER STYLES (Michael) */
+
+.maincontentwrapper { }
+
+.field {margin-bottom: 20px; }
+
+#region-content .content a, #region-right-sidebar .content a { 
+	text-decoration: none;
+/*	color: #770b00; red */
+/*	color: #064240; dark green */ 
+	color: #587969; /* sagey green for page titles */ }
+
+#region-content .content a:hover,#region-right-sidebar .content a:hover {
+	text-decoration: underline;
+	color: #d25036; /* orange */
+	}
+
+#region-content .content a:visited { 
+	text-decoration:none; }
+
+#region-content .content a:active { 
+	text-decoration:none; }
+
+/* OTHER STYLES */
+	 
+ul li.leaf {
+	list-style-type: none;
+	list-style-image: none;
+}
+
+#region-content .mainContentWrapper .views-row {
+/*	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 20px; 
+	padding-bottom: 35px;*/
+	padding-bottom: 20px;
+}
+
+.contentWrapper {
+	margin-top: 20px;
+	margin-bottom: 20px;	
+}
+
+/*#region-content .region-content-inner { font: 12 px 'Century Gothic', sans-serif; }*/
+
+/*#region-content .content a { text-decoration: none; color: #ff40ff; }
+#region-content .content a:hover { text-decoration: none; }
+#region-content .content a:visited { text-decoration:none; }
+#region-content .content a:active { text-decoration:none; }*/
+
+
+
+/*#region-content .content .normalText a { text-decoration: none; color:#d25036; }
+#region-content .content .normalText a:hover { text-decoration: none; }
+#region-content .content .normalText a:visited { text-decoration:none; }
+#region-content .content .normalText a:active { text-decoration:none; }*/
+
+/* styles for homepage blocks */
+.paddingWrapper {
+	padding: 10px;
+}
+.indent10 {
+	text-indent: 10px;
+}
+
+/* ----- styles for inner pages ----- */
+
+/* leftnav menu */
+#region-sidebar-first-inner h2.block-title,
+.newsLink, .MSBstoreLink, .homeLink, .login {
+	margin: 0 10px;	
+	font: normal 14px 'Century Gothic', sans-serif;
+	text-transform: uppercase;
+	color: #064240; /*  dark green text */
+}
+
+#region-sidebar-first-inner .leftnavLower li {
+	margin-left: -5px;
+	margin-bottom: 10px;
+}
+
+#region-sidebar-first-inner .login {margin-top: -10px; margin-left: 10px;}
+
+#region-sidebar-first-inner .login a { text-decoration: none; color: #064240; /*  dark green text */ }
+#region-sidebar-first-inner .login a:hover { text-decoration: none; color:#fff;}
+
+#region-sidebar-first-inner .region-inner{ padding-top:15px;}
+#region-sidebar-first-inner .block{ margin-bottom:15px}
+#region-sidebar-first-inner .leftnavLower {margin-left: -5px;}
+
+.newsLink, .homeLink { margin-top: 0px;}
+.homeLink { margin-bottom: 10px;}
+
+#region-sidebar-first .MSBstoreLink {
+	margin-top: 0px;
+	margin-left: 20px;
+}
+#region-sidebar-first-inner ul {
+	margin-left: 20px;		
+	font: 12px 'Century Gothic', sans-serif;	
+}
+#region-sidebar-first-inner ul li {	
+	margin-left: 20px;	
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#region-sidebar-first-inner ul li ul {
+	margin-left: 5px;	
+}
+#region-sidebar-first-inner ul li a { text-decoration: none; color: #064240; /*  dark green text */ }
+#region-sidebar-first-inner ul li a:hover { text-decoration: none; color:#fff;}
+/*
+ * Hide bullet, triangles in DHTML menu css
+ */
+#region-sidebar-first-inner a.dhtml-menu-icon { display: none; }
+#region-sidebar-first-inner li.dhtml-folder.expanded { display: none !important; }
+#region-sidebar-first-inner li.dhtml-folder.collapsed { display: none !important; }
+
+/* ----- styles for news pages ----- */
+
+.group-left { width: 35%;}
+.group-right { width: 65%;}
+.newsTeaserFooter { height: 3px; background: #587969; }
+.views-row-last .newsTeaserFooter { display: none; }
+.newsTeaserLeft {
+	padding-bottom: 20px;
+}
+.newsTeaserRight .field-name-node-link {
+	padding-bottom: 20px;
+}
+
+#region-content .view-news-page .view-content,#region-content .view-news-archive .view-content { padding-top: 20px;} 
+#region-content .view-content .views-row { margin-bottom: 20px;}
+#block-views-news-page-block-2 .view-display-id-block_2 .view-content { padding-top: 0px; }
+
+/* ----- styles for blog pages ----- */
+
+.blog-pages #region-content .view-content .views-field-title {
+	font: bold 20px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+/*	color: #587969;  sagey green for page titles */
+	color: #6a6256; /* dark grey for blog titles */
+	letter-spacing: 1px;
+	margin-bottom: 15px; }
+
+/* ----------------------- styles for RIGHT SIDEBAR ---------------------------- */
+
+#region-right-sidebar h2.block-title {
+	padding-bottom: 10px;
+}
+#region-right-sidebar .sidebar-b, 
+#region-right-sidebar .sidebar-b p,
+.node-type-event .ds-2col-stacked-fluid > .group-right,
+#region-right-sidebar .orange,
+#region-right-sidebar .orange p {
+	padding-top: 20px;
+	padding-right: 3px;
+	padding-left: 3px;
+	background: #d25036; /* red orange */
+	font: normal 12px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	color: #fff;
+	text-align: center;
+/*	border-radius: 15px;*/ 
+}
+#region-right-sidebar .sidebar-b a,
+#region-right-sidebar .orange a { 
+	font: normal 16px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	text-transform: uppercase; 
+	letter-spacing: 2px;
+	text-decoration: none; 
+	color: #fff; /*  white */ 
+}
+
+#block-ds-extras-basic-page-sidebar .field-name-field-faq-file a,
+#block-ds-extras-event-sidebar .field-name-field-faq-file a {
+	font: normal 12px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	text-transform: none; 
+	letter-spacing: 0px;
+}
+#block-ds-extras-basic-page-sidebar .field-name-field-date,
+#block-ds-extras-event-sidebar .field-name-field-date { 
+	line-height: 120%; 
+	font: normal 16px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+}
+#block-ds-extras-basic-page-sidebar .field-name-field-date .field-item,
+#block-ds-extras-basic-page-sidebar .field-name-field-donate .field-item,
+#block-ds-extras-basic-page-sidebar .field-name-field-add-hyperlink .field-item,
+#block-ds-extras-event-sidebar .field-name-field-date .field-item {margin-bottom: 20px;}
+#block-ds-extras-basic-page-sidebar .field-name-field-location,
+#block-ds-extras-event-sidebar .field-name-field-location {
+	font: normal 14px 'Century Gothic', 'Helvetica', Arial, sans-serif;
+	text-transform: none; 
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#block-ds-extras-event-sidebar .field-name-field-location,
+#block-ds-extras-basic-page-sidebar .field-name-field-location { margin-bottom: 20px;}
+
+#block-ds-extras-event-sidebar .field-name-field-registration-more-info,
+#block-ds-extras-event-sidebar .field-name-field-streaming-more-info,
+#block-ds-extras-event-sidebar .field-name-field-another-link-more-info,
+#block-ds-extras-basic-page-sidebar .field-name-field-registration-more-info,
+#block-ds-extras-basic-page-sidebar .field-name-field-streaming-more-info,
+#block-ds-extras-basic-page-sidebar .field-name-field-another-link-more-info {margin-top: -20px;}
+
+#block-ds-extras-basic-page-sidebar .field-name-field-faq-file img,
+#block-ds-extras-event-sidebar .field-name-field-faq-file img {display: none;}
+
+#region-right-sidebar .sidebar-b a:hover,
+#region-right-sidebar .orange a:hover { text-decoration: underline; color: #fff; /*  white */ }
+
+#region-right-sidebar .greenbox {
+	padding: 10px;
+	letter-spacing: 0px;
+	text-align: left;
+	background: #afbb98; /* leftnav green */	
+/*	color: #064240;  dark green */
+	color: #000;
+	font: normal 12px 'Century Gothic', sans-serif;
+}
+#region-right-sidebar .greenbox .views-row { margin-bottom: 10px;}
+#region-right-sidebar .greenbox .views-field-field-startdate { font-weight: bold;}
+#region-right-sidebar .greenbox a { font: 12px 'Century Gothic', sans-serif; text-decoration: none; color: #064240; /*  dark green */ }
+#region-right-sidebar .greenbox a:hover { text-decoration: none; color: #fff; /*  white */ }
+
+#region-right-sidebar{ position:relative}
+/*
+#region-right-sidebar .orange { background:#d25036; color:#FFF; padding:10px}
+#region-right-sidebar .orange a{ color:#000}
+#region-right-sidebar .orange a:hover{ color:#FFF} 
+*/
+/* ----------- styles for general mailchimp text  ---------------------- */
+#region-right-sidebar .mailchimp { width:100%;position: absolute; bottom: 0; left: 0; }
+#edit-mailchimp-lists-mailchimp-msb-mailing-list-title { font: 12px/18px; color:#d25036; /* orange */}
+#edit-mailchimp-lists-mailchimp-msb-mailing-list-title .description { font: 11px/13px; color: #6a6256; /* dark grey */}
+/* ----------- styles for homepage mailchimp text  ---------------------- */
+#region-content-bottom-third #edit-mailchimp-lists-mailchimp-msb-mailing-list-title .form-type-item { font: 14px/18px; color:#d25036; /* orange */}
+#region-content-bottom-third #edit-mailchimp-lists-mailchimp-msb-mailing-list-title .description { font: 12px/14px; color: #6a6256; /* dark grey */}

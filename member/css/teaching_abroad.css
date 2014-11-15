@@ -1,0 +1,112 @@
+.cdtitle {
+	font-family: 'Nunito', sans-serif;
+}
+
+.smallertitle {
+	font-size: 14px;
+}
+
+.cdtitlecolor {
+  color: #b32a25;
+}
+
+.cd p img {
+  float: left;
+  padding: 12px;
+}
+
+p.cdtitle.cdtitlecolor {
+  font-size: 18px;
+  width: 385px;
+  text-align: right;
+  margin-top: 0;
+}
+
+p.cdtitle.cdtitlecolor.cdruntime {
+  font-size: 18px;
+  width: 430px;
+  text-align: left;
+  margin-top: 0;
+}
+
+.newbanner {
+  color: #fff;
+  background-color: #a72b26;
+  text-align: right;
+  margin-top: 0;
+  padding-top: 0;
+  font-weight: 300;
+}
+
+.intro {
+  background-color: #e1e3dc;
+  padding: 18px;
+}
+
+.intro img {
+  padding-left: 37px;
+}
+
+.bohatch.cd {
+  background-color: #c7cdc6;
+  padding: 18px 18px 36px;
+}
+
+.lerabling.cd {
+  background-color: #e9e9d6;
+  padding: 18px 18px 36px;
+  width: 618px;
+}
+.nalanda.cd {
+  background-color: #f8e5c6;
+  padding: 18px 18px 36px;
+}
+
+.blue {
+  background-color: #899cbd;
+  color: #fff;
+  width: 20%;
+  padding: 8px 12px;
+  float: left;
+}
+
+.orange {
+  background-color: #da6436;
+  color: #fff;
+  width: 20%;
+  padding: 8px 12px;
+  float: left;
+}
+
+.greencd {
+  background-color: #8ca679;
+  color: #fff;
+  width: 20%;
+  padding: 8px 12px;
+  float: left;
+}
+
+.allcds {
+ color: #fff;
+width: 24%;
+  padding: 8px 12px;
+  float: left;
+  background: #889cbd url(../images/Store/green-orangebk.png) repeat-x;
+  text-align: center;
+}
+
+.orangeandgreen {
+  color: #fff;
+  width: 44%;
+  padding: 8px 12px;
+  float: left;
+  background: #565656 url(../images/Store/green-orangebk.png) repeat-x;
+}
+
+.cdtitle a:link {
+  color: #fff;
+}
+
+.cdtitle a:hover {
+  color: #b52924;
+}

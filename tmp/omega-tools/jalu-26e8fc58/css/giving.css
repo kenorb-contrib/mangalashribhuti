@@ -1,0 +1,26 @@
+/* styles for Jalu Giving page */
+
+#region-content-giving-first h2.block-title,
+#region-content-giving-second h2.block-title,
+#region-content-giving-third h2.block-title {
+/*	border: 1px dotted green; */
+	font: bold 16px verdana, arial, sans-serif;
+	text-align: center;	
+	color: #587969;
+}
+#region-content-giving-first .givingSubtitle,
+#region-content-giving-second .givingSubtitle,
+#region-content-giving-third .givingSubtitle {
+	font: normal 14px verdana, arial, sans-serif;
+	text-align: center;	
+	color: #587969;
+}
+.giving1wrapper,
+.giving2wrapper,
+.giving3wrapper {
+	margin-top: 20px;
+}
+.giving a:link		{ color: #ba6d4a; text-decoration:none; }
+.giving a:visited	{ color: #ba6d4a; text-decoration:none; }
+.giving a:hover 	{ color:#9d4a4c; text-decoration: underline; }
+.giving a:active	{ color: #ba6d4a; text-decoration:none; }				

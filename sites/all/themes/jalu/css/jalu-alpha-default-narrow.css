@@ -1,0 +1,173 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the normal and widescreen layouts. You may override these styles in the normal 
+ *  and widescreen CSS files as appropriate. */
+.sf-menu.sf-style-coral li, .sf-menu.sf-style-coral li li, .sf-menu.sf-style-coral li li li, .sf-menu.sf-style-coral.sf-navbar {
+	font-size: 10px;
+	letter-spacing: .5px;
+}
+.sf-menu.sf-style-coral li {
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+.sf-menu.sf-style-coral li {
+	width: auto;
+	display: inherit;
+	text-align: left;
+}
+#block-views-msb-block-1 .views-row {
+	float: left;
+	width: 50%;
+	text-align: left
+}
+.sf-menu.sf-style-coral li ul {
+	width: auto !important;
+	border: 0px;
+}
+#region-branding .mainlogo p {
+	padding-top: 20px
+}
+#region-branding .mainlogo {
+	top: 0px;
+	position: relative;
+	z-index: 80;
+	display: inline-block
+}
+#region-branding .mainlogo a {
+	color: #dfdfc3;
+}
+/*Prayer*/
+#block-block-43 {
+	bottom: 80px;
+	position: absolute;
+	text-align: right;
+	top: 10px;
+	width: 100%;
+	right: 0px;
+	z-index: 300;
+}
+#block-block-43 .content span {
+	display: inline;
+	line-height: 30px;
+}
+#block-block-43 .content span.a {
+	display: inline
+}
+#block-block-43 .content span.b {
+	display: block
+}
+#block-block-43 .content a {
+	background: url("../images/prayer_2.png") right top no-repeat;
+	font-family: 'Century Gothic', sans-serif;
+	color: #d25036;
+	display: block;
+	height: 80px;
+	line-height: 20px;
+	/*text-indent: -99999px;*/
+
+	font-size: 12px;
+	text-align: right;
+	padding-right: 10px;
+	text-decoration: none
+}
+#zone-menu .block-search .form-actions input {
+	float: none
+}
+/* -------- styles for masthead ------------- */
+#region-branding {
+	clear: both;
+	height: 185px;
+	position: relative;
+	background: url("/sites/all/themes/jalu/images/bnbg.jpg") center bottom no-repeat;
+}
+#region-branding .region-inner {
+	position: relative
+}
+#region-branding .mainlogo span {
+	display: block;
+	float: left
+}
+#region-branding .mainlogo {
+	margin-left: 0px;
+	padding-bottom: 10px;
+	position: relative;
+	top: 30px;
+}
+#region-branding .mainlogo .sitename {
+	font-size: 40px;
+	line-height: 46px;
+	padding-top: 80px;
+	padding-left: 20px
+}
+#region-branding .mainlogo .logoimg {
+	padding-left: 10px
+}
+/*Front*/
+.front #region-branding .mainlogo .logoimg {
+	padding-left: 40px
+}
+.front #region-branding .mainlogo .sitename {
+	padding-left: 66px
+}
+#region-branding .mainlogo a {
+	font-size: 50px
+}
+#region-branding .mainlogo p {
+	margin: 0px;
+	padding: 0px
+}
+.node-type-event .ds-2col-stacked-fluid > .group-left {
+	width: 70%;
+	margin-right: 20px
+}
+.node-type-event .group-one-column > .group-left {
+	width: 100%;
+}
+.node-type-event .ds-2col-stacked-fluid > .group-right {
+	width: 20%;
+	text-align: left;
+	padding: 10px
+}
+.node-type-event .ds-2col-stacked-fluid > .group-right .field-items {
+	margin-top: 0px;
+	margin-bottom: 10px
+}
+.node-type-event #region-content .content .ds-2col-stacked-fluid > .group-right a {
+	color: #fff
+}
+#block-block-65 {
+	color: #064240;
+	margin-left: 15px;
+	margin-top: 10px
+}
+#block-block-65 a {
+	color: #064240;
+	font-weight: normal
+}
+/*Internal left menu*/
+#block-menu-menu-internal-left-menu {
+	text-transform: uppercase;
+}
+#block-menu-menu-internal-left-menu a {
+	font-size: 15px;
+	line-height: 20px
+}
+#block-menu-menu-internal-left-menu ul li {
+	margin: 0px
+}
+/*Menu bar*/
+#block-superfish-1 {
+	float: left;
+	display: inline-block
+}
+#block-search-form {
+	float: left
+}
+
+
+/*News & Archive views*/
+
+.page-news .view-news-page .views-field-field-news-teaser-image,.page-news-archive .view-news-archive .views-field-field-news-teaser-image { width:200px; margin-right:15px; margin-bottom:15px; height:147px; float:left}
+
+.view-display-id-block_2 .views-row{ margin-bottom:15px}
+.view-display-id-block_2 .view-content{ padding-top:15px}

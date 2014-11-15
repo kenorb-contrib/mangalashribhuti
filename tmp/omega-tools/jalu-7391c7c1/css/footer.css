@@ -1,0 +1,13 @@
+/* ----------- styles for Footer Zone ---------------------- */	
+.footer-outer-wrapper { /* mauve bg */
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#zone-footer {
+	font: 11px verdana, arial, sans-serif;
+	color: #fff;
+}
+#zone-footer a:link		{ color: #fff; text-decoration:none; }
+#zone-footer a:visited	{ color: #fff; text-decoration:none; }
+#zone-footer a:hover 	{ color:#fbcb60; text-decoration: underline; }
+#zone-footer a:active	{ color: #fff; text-decoration:none; }
